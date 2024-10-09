@@ -2,6 +2,14 @@
 
 * [Hipólito Filipe Costa de Araújo](http://github.com/iflipe)
 
+## Video
+
+<div align="center">
+    <a href="https://www.loom.com/share/0f45e9e16ae841a788c757a70f317420">
+      <img src="https://cdn.loom.com/sessions/thumbnails/0f45e9e16ae841a788c757a70f317420-088151b8f033b258-full-play.gif">
+    </a>
+  </div>
+
 ## Summary
 
 This second assignment uses the concept of a co-authorship network as an opportunity to work with more aspects of graphs like sub-graphing, density and sparsity, degree and methods of visualization as well as things more data science related like data cleaning and manipulation.
