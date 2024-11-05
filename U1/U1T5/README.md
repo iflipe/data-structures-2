@@ -1,6 +1,13 @@
 ## Summary
 
+
 This assignment concludes the first unit of the course exploring the placement of dock stations for bike sharing services in the neighborhood of UFRN's central campus using the OSMnx library. The notebook includes analyses on centrality measurements, degree distribution, and core analysis to determine the most suitable placement locations for dock stations.
+
+<div align="center">
+    <a href="https://www.loom.com/share/b2bb3e3389444443983cee0fc355f71c">
+      <img src="https://cdn.loom.com/sessions/thumbnails/b2bb3e3389444443983cee0fc355f71c-e2227a4b18786480-full-play.gif">
+    </a>
+</div>
 
 ## About the data
 

@@ -1,10 +1,14 @@
-## Dev Team
-
-* [Hipólito Filipe Costa de Araújo](http://github.com/iflipe)
-
 ## Summary
 
 This assignment explores the street map of Natal - RN using the OSMnx library to gain insights into the response time of fire events and the connectivity of cycleways in the city. The notebook includes analyses on the area covered by fire stations within five minutes and the isolation of cyclists due to the disconnected network of cycleways.
+
+<div align="center">
+    <a href="https://www.loom.com/share/f1de0eaa78294799967909f6b2299f0a">
+      <img src="https://cdn.loom.com/sessions/thumbnails/f1de0eaa78294799967909f6b2299f0a-6ddb6204f9f79e5f-full-play.gif">
+    </a>
+</div>
+
+
 
 ## About the Data
 
@@ -39,3 +43,7 @@ The network of cycleways in Natal is highly disconnected, forming isolated secti
 ## Conclusion
 
 The analyses reveal that the current infrastructure for fire response and cycleways in Natal have room for improvement. The fire stations cover only a small portion of the city within five minutes, and the cycleways are disconnected. Further actions are needed to enhance the safety and mobility of the city's residents.
+
+## Dev Team
+
+* [Hipólito Filipe Costa de Araújo](http://github.com/iflipe)
