@@ -1,6 +1,12 @@
 ## Summary
 This document summarizes the process and results of assessing the time complexity of two algorithms related to lookups in a Binary Search Tree (BST). The first algorithm returns the closest value present in the tree based on a target, while the second one retrieves the k<sup>th</sup> largest value in the tree.
 
+<div align="center">
+    <a href="https://www.loom.com/share/f43f226c05c840fd952e663452f1c686">
+      <img src="https://cdn.loom.com/sessions/thumbnails/f43f226c05c840fd952e663452f1c686-1ea7f0b0da7ac376-full-play.gif">
+    </a>
+</div>
+
 ## The Assignment
 The task involves evaluating the performance of two algorithms concerning their time complexity:
 1. `findClosestValue`: Finds the value in a BST that is closest to a given target.
@@ -17,7 +23,7 @@ The results are presented in two plots:
     ![Closest Value Performance](images/CVperformance.png)
 
 ## Discussion and conclusion
-The results indicate that the `findKthLargestValue` algorithm exhibits a linear time complexity, as evidenced by the steady increase in execution time proportional to the size of the BST. In contrast, the `findClosestValue` algorithm demonstrates a logarithmic time complexity, with execution time increasing at a much slower rate relative to the tree size (see the Y scale in the second plot). The small error bars in the plots reflect the high reliability of the measurements, attributed to the large number of observations (20) for each test configuration.
+The results indicate that the `findKthLargestValue` algorithm exhibits a linear time complexity, as evidenced by the steady increase in execution time proportional to the size of the BST. In contrast, the `findClosestValue` algorithm demonstrates a logarithmic time complexity, with execution time increasing at a much slower rate relative to the tree size (see the scale for the Y axis in the second plot). The small error bars in the plots reflect the high reliability of the measurements, attributed to the large number of observations (20) for each test configuration.
 
 ## Dev Team
 
