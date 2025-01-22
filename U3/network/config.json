@@ -1,0 +1,53 @@
+{
+  "type": "network",
+  "version": "1.0",
+  "data": "data.json",
+  "logo": {
+    "file": "",
+    "link": "",
+    "text": "Filipe Araújo"
+  },
+  "text": {
+    "more": "A graph showing the relationship of characters and places for chapters from a perspective of a single character. The goal is to see the how different are the stories told by the characters in different places.",
+    "intro": "A graph showing the relationship of characters and places for chapters from a perspective of a single character.",
+    "title": "A Song of Ice and Fire - A Game of Thrones"
+  },
+  "legend": {
+    "edgeLabel": "Connection between two entities",
+    "colorLabel": "<div style='text-align:center;width:100px;height:16px;border:1px solid #fff;background:rgb(223,137,255);display:inline-block'><b>Eddard</b></div>",
+    "nodeLabel": "Entity"
+  },
+  "features": {
+    "search": true,
+    "groupSelectorAttribute": "color",
+    "hoverBehavior": "dim"
+  },
+  "informationPanel": {
+    "groupByEdgeDirection": false,
+    "imageAttribute": false
+  },
+  "sigma": {
+    "drawingProperties": {
+      "defaultEdgeType": "curve",
+      "defaultHoverLabelBGColor": "#002147",
+      "defaultLabelBGColor": "#ddd",
+      "activeFontStyle": "bold",
+      "defaultLabelColor": "#000",
+      "labelThreshold": 10,
+      "defaultLabelHoverColor": "#fff",
+      "fontStyle": "bold",
+      "hoverFontStyle": "bold",
+      "defaultLabelSize": 14
+    },
+    "graphProperties": {
+      "maxEdgeSize": 4,
+      "minEdgeSize": 0.7,
+      "minNodeSize": 1,
+      "maxNodeSize": 7
+    },
+    "mouseProperties": {
+      "maxRatio": 20,
+      "minRatio": 0.75
+    }
+  }
+}

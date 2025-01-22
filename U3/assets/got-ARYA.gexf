@@ -1,0 +1,245 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gexf xmlns="http://www.gexf.net/1.2draft" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.gexf.net/1.2draft http://www.gexf.net/1.2draft/gexf.xsd" version="1.2">
+  <meta lastmodifieddate="2025-01-22">
+    <creator>NetworkX 3.3</creator>
+  </meta>
+  <graph defaultedgetype="undirected" mode="static" name="">
+    <nodes>
+      <node id="Arya" label="Arya" />
+      <node id="Fat Tom" label="Fat Tom" />
+      <node id="Godwyn" label="Godwyn" />
+      <node id="Harwin" label="Harwin" />
+      <node id="House" label="House" />
+      <node id="Jeyne Poole" label="Jeyne Poole" />
+      <node id="Joffrey" label="Joffrey" />
+      <node id="Jon" label="Jon" />
+      <node id="Jon Snow" label="Jon Snow" />
+      <node id="Kingslayer" label="Kingslayer" />
+      <node id="King’s Landing" label="King’s Landing" />
+      <node id="Lady Catelyn" label="Lady Catelyn" />
+      <node id="Lannisters" label="Lannisters" />
+      <node id="Lyanna" label="Lyanna" />
+      <node id="Myrcella" label="Myrcella" />
+      <node id="Needle" label="Needle" />
+      <node id="Nymeria" label="Nymeria" />
+      <node id="Sansa" label="Sansa" />
+      <node id="Septa Mordane" label="Septa Mordane" />
+      <node id="Syrio Forel" label="Syrio Forel" />
+      <node id="Vayon Poole" label="Vayon Poole" />
+      <node id="the Red Keep" label="the Red Keep" />
+      <node id="the Small Hall" label="the Small Hall" />
+      <node id="Baby Bran" label="Baby Bran" />
+      <node id="Baelor" label="Baelor" />
+      <node id="Joffrey Baratheon" label="Joffrey Baratheon" />
+      <node id="the Iron Throne" label="the Iron Throne" />
+      <node id="Beth Cassel" label="Beth Cassel" />
+      <node id="Ser Rodrik’s" label="Ser Rodrik’s" />
+      <node id="Brandon" label="Brandon" />
+      <node id="Desmond" label="Desmond" />
+      <node id="Hullen" label="Hullen" />
+      <node id="Porther" label="Porther" />
+      <node id="longsword" label="longsword" />
+      <node id="“Lord Eddard" label="“Lord Eddard" />
+      <node id="Eddard" label="Eddard" />
+      <node id="Lady Sansa" label="Lady Sansa" />
+      <node id="Alyn" label="Alyn" />
+      <node id="Jory" label="Jory" />
+      <node id="High Valyrian" label="High Valyrian" />
+      <node id="Jaime" label="Jaime" />
+      <node id="Imp" label="Imp" />
+      <node id="Tywin" label="Tywin" />
+      <node id="Jeyne" label="Jeyne" />
+      <node id="Arya Horseface" label="Arya Horseface" />
+      <node id="Septon" label="Septon" />
+      <node id="Varys" label="Varys" />
+      <node id="King Joffrey" label="King Joffrey" />
+      <node id="Prince Joffrey" label="Prince Joffrey" />
+      <node id="King Robert" label="King Robert" />
+      <node id="Lord Renly" label="Lord Renly" />
+      <node id="Stark" label="Stark" />
+      <node id="Kingsguard" label="Kingsguard" />
+      <node id="Lady" label="Lady" />
+      <node id="Hound" label="Hound" />
+      <node id="Mycah" label="Mycah" />
+      <node id="Lannister" label="Lannister" />
+      <node id="Baratheon" label="Baratheon" />
+      <node id="Tullys" label="Tullys" />
+      <node id="the king’s council" label="the king’s council" />
+      <node id="Lew" label="Lew" />
+      <node id="Donnis" label="Donnis" />
+      <node id="Lysa Arryn" label="Lysa Arryn" />
+      <node id="Stannis Baratheon" label="Stannis Baratheon" />
+      <node id="Mormont" label="Mormont" />
+      <node id="m’lord" label="m’lord" />
+      <node id="Prince Joff" label="Prince Joff" />
+      <node id="Red Keep" label="Red Keep" />
+      <node id="Aegon" label="Aegon" />
+      <node id="Hill" label="Hill" />
+      <node id="Rickon" label="Rickon" />
+      <node id="Robb" label="Robb" />
+      <node id="Grandfather" label="Grandfather" />
+      <node id="Joff" label="Joff" />
+      <node id="Theon" label="Theon" />
+      <node id="Theon Greyjoy" label="Theon Greyjoy" />
+      <node id="Rock" label="Rock" />
+      <node id="Casterly Rock" label="Casterly Rock" />
+      <node id="Rodrik" label="Rodrik" />
+      <node id="Beth" label="Beth" />
+      <node id="Ser Hobber" label="Ser Hobber" />
+      <node id="Ser Horas" label="Ser Horas" />
+      <node id="Ser Loras" label="Ser Loras" />
+      <node id="Robert" label="Robert" />
+      <node id="Ser Meryn" label="Ser Meryn" />
+      <node id="Syrio" label="Syrio" />
+      <node id="Ser Rodrik" label="Ser Rodrik" />
+      <node id="Septon Chayle" label="Septon Chayle" />
+      <node id="the Sealord of Braavos" label="the Sealord of Braavos" />
+      <node id="Tom" label="Tom" />
+      <node id="Yoren" label="Yoren" />
+      <node id="Tommen" label="Tommen" />
+      <node id="Tyrion Lannister" label="Tyrion Lannister" />
+      <node id="Littlefinger" label="Littlefinger" />
+      <node id="Jory Cassel" label="Jory Cassel" />
+      <node id="Visenya" label="Visenya" />
+      <node id="Winterfell" label="Winterfell" />
+      <node id="Ser Meryn Trant" label="Ser Meryn Trant" />
+      <node id="Wyl" label="Wyl" />
+      <node id="Heward" label="Heward" />
+      <node id="pushcart" label="pushcart" />
+      <node id="stableboy" label="stableboy" />
+      <node id="the Free Cities" label="the Free Cities" />
+      <node id="Myr" label="Myr" />
+      <node id="the Wind Witch" label="the Wind Witch" />
+    </nodes>
+    <edges>
+      <edge source="Arya" target="Fat Tom" id="0" weight="1" />
+      <edge source="Arya" target="Godwyn" id="1" weight="1" />
+      <edge source="Arya" target="Harwin" id="2" weight="1" />
+      <edge source="Arya" target="House" id="3" weight="1" />
+      <edge source="Arya" target="Jeyne Poole" id="4" weight="2" />
+      <edge source="Arya" target="Joffrey" id="5" weight="1" />
+      <edge source="Arya" target="Jon" id="6" weight="2" />
+      <edge source="Arya" target="Jon Snow" id="7" weight="1" />
+      <edge source="Arya" target="Kingslayer" id="8" weight="1" />
+      <edge source="Arya" target="King’s Landing" id="9" weight="1" />
+      <edge source="Arya" target="Lady Catelyn" id="10" weight="1" />
+      <edge source="Arya" target="Lannisters" id="11" weight="1" />
+      <edge source="Arya" target="Lyanna" id="12" weight="1" />
+      <edge source="Arya" target="Myrcella" id="13" weight="1" />
+      <edge source="Arya" target="Needle" id="14" weight="5" />
+      <edge source="Arya" target="Nymeria" id="15" weight="2" />
+      <edge source="Arya" target="Sansa" id="16" weight="1" />
+      <edge source="Arya" target="Septa Mordane" id="17" weight="4" />
+      <edge source="Arya" target="Syrio Forel" id="18" weight="2" />
+      <edge source="Arya" target="Vayon Poole" id="19" weight="1" />
+      <edge source="Arya" target="the Red Keep" id="20" weight="1" />
+      <edge source="Arya" target="the Small Hall" id="21" weight="1" />
+      <edge source="Arya" target="Baby Bran" id="22" weight="1" />
+      <edge source="Arya" target="Baelor" id="23" weight="1" />
+      <edge source="Arya" target="High Valyrian" id="24" weight="1" />
+      <edge source="Arya" target="Prince Joff" id="25" weight="1" />
+      <edge source="Arya" target="Rickon" id="26" weight="1" />
+      <edge source="Arya" target="Robb" id="27" weight="1" />
+      <edge source="Arya" target="Ser Hobber" id="28" weight="1" />
+      <edge source="Arya" target="Tom" id="29" weight="1" />
+      <edge source="Arya" target="Visenya" id="30" weight="1" />
+      <edge source="Arya" target="Winterfell" id="31" weight="3" />
+      <edge source="Harwin" target="Desmond" id="32" weight="1" />
+      <edge source="Harwin" target="Alyn" id="33" weight="1" />
+      <edge source="Harwin" target="Jory" id="34" weight="1" />
+      <edge source="Harwin" target="Tom" id="35" weight="1" />
+      <edge source="House" target="Lannister" id="36" weight="1" />
+      <edge source="House" target="Theon Greyjoy" id="37" weight="1" />
+      <edge source="Jeyne Poole" target="Beth Cassel" id="38" weight="1" />
+      <edge source="Jeyne Poole" target="Sansa" id="39" weight="2" />
+      <edge source="Joffrey" target="Jeyne" id="40" weight="1" />
+      <edge source="Joffrey" target="Sansa" id="41" weight="1" />
+      <edge source="Joffrey" target="Septon" id="42" weight="1" />
+      <edge source="Joffrey" target="Varys" id="43" weight="1" />
+      <edge source="Joffrey" target="Kingsguard" id="44" weight="1" />
+      <edge source="Joffrey" target="Robb" id="45" weight="1" />
+      <edge source="Joffrey" target="Rodrik" id="46" weight="1" />
+      <edge source="Jon" target="Robb" id="47" weight="1" />
+      <edge source="Jon" target="Winterfell" id="48" weight="2" />
+      <edge source="Jon" target="Yoren" id="49" weight="1" />
+      <edge source="Jon" target="the Small Hall" id="50" weight="1" />
+      <edge source="King’s Landing" target="Red Keep" id="51" weight="1" />
+      <edge source="Lannisters" target="Syrio Forel" id="52" weight="1" />
+      <edge source="Lannisters" target="Tullys" id="53" weight="1" />
+      <edge source="Lannisters" target="the king’s council" id="54" weight="1" />
+      <edge source="Lannisters" target="Robb" id="55" weight="1" />
+      <edge source="Lyanna" target="Brandon" id="56" weight="1" />
+      <edge source="Lyanna" target="Robb" id="57" weight="1" />
+      <edge source="Myrcella" target="Tommen" id="58" weight="1" />
+      <edge source="Needle" target="Baelor" id="59" weight="1" />
+      <edge source="Needle" target="stableboy" id="60" weight="1" />
+      <edge source="Nymeria" target="Winterfell" id="61" weight="1" />
+      <edge source="Sansa" target="Jeyne" id="62" weight="2" />
+      <edge source="Sansa" target="Prince Joffrey" id="63" weight="1" />
+      <edge source="Sansa" target="Robb" id="64" weight="3" />
+      <edge source="Sansa" target="Beth" id="65" weight="1" />
+      <edge source="Sansa" target="Septa Mordane" id="66" weight="2" />
+      <edge source="Sansa" target="Tullys" id="67" weight="1" />
+      <edge source="Sansa" target="Winterfell" id="68" weight="1" />
+      <edge source="Septa Mordane" target="Jeyne" id="69" weight="1" />
+      <edge source="Septa Mordane" target="Prince Joffrey" id="70" weight="1" />
+      <edge source="Septa Mordane" target="Tom" id="71" weight="1" />
+      <edge source="Syrio Forel" target="the Sealord of Braavos" id="72" weight="1" />
+      <edge source="Vayon Poole" target="Jory Cassel" id="73" weight="1" />
+      <edge source="the Red Keep" target="Winterfell" id="74" weight="1" />
+      <edge source="Baelor" target="Joffrey Baratheon" id="75" weight="1" />
+      <edge source="Baelor" target="the Iron Throne" id="76" weight="1" />
+      <edge source="Beth Cassel" target="Ser Rodrik’s" id="77" weight="1" />
+      <edge source="Brandon" target="Robb" id="78" weight="1" />
+      <edge source="Desmond" target="Hullen" id="79" weight="1" />
+      <edge source="Desmond" target="Porther" id="80" weight="1" />
+      <edge source="Desmond" target="longsword" id="81" weight="1" />
+      <edge source="Desmond" target="“Lord Eddard" id="82" weight="1" />
+      <edge source="Desmond" target="Tom" id="83" weight="1" />
+      <edge source="Hullen" target="Jory" id="84" weight="1" />
+      <edge source="Hullen" target="Ser Rodrik" id="85" weight="1" />
+      <edge source="Hullen" target="Winterfell" id="86" weight="1" />
+      <edge source="Eddard" target="Lady Sansa" id="87" weight="1" />
+      <edge source="Eddard" target="Lannister" id="88" weight="1" />
+      <edge source="Jory" target="Ser Rodrik" id="89" weight="1" />
+      <edge source="Jory" target="Tom" id="90" weight="1" />
+      <edge source="Jory" target="Wyl" id="91" weight="1" />
+      <edge source="Jaime" target="Imp" id="92" weight="1" />
+      <edge source="Jaime" target="Tywin" id="93" weight="1" />
+      <edge source="Jeyne" target="Arya Horseface" id="94" weight="1" />
+      <edge source="King Joffrey" target="Prince Joffrey" id="95" weight="1" />
+      <edge source="Prince Joffrey" target="Robb" id="96" weight="1" />
+      <edge source="King Robert" target="Lord Renly" id="97" weight="1" />
+      <edge source="King Robert" target="Stark" id="98" weight="1" />
+      <edge source="Lord Renly" target="Ser Loras" id="99" weight="1" />
+      <edge source="Kingsguard" target="Lannister" id="100" weight="1" />
+      <edge source="Lady" target="Hound" id="101" weight="1" />
+      <edge source="Lady" target="Mycah" id="102" weight="1" />
+      <edge source="Lannister" target="Baratheon" id="103" weight="1" />
+      <edge source="Tullys" target="Robb" id="104" weight="1" />
+      <edge source="Lew" target="Donnis" id="105" weight="1" />
+      <edge source="Lysa Arryn" target="Stannis Baratheon" id="106" weight="1" />
+      <edge source="Mormont" target="m’lord" id="107" weight="1" />
+      <edge source="Red Keep" target="Aegon" id="108" weight="1" />
+      <edge source="Red Keep" target="Hill" id="109" weight="1" />
+      <edge source="Hill" target="Visenya" id="110" weight="1" />
+      <edge source="Rickon" target="Robb" id="111" weight="3" />
+      <edge source="Robb" target="Grandfather" id="112" weight="1" />
+      <edge source="Robb" target="Joff" id="113" weight="1" />
+      <edge source="Robb" target="Theon" id="114" weight="1" />
+      <edge source="Robb" target="Theon Greyjoy" id="115" weight="1" />
+      <edge source="Rock" target="Casterly Rock" id="116" weight="1" />
+      <edge source="Ser Hobber" target="Ser Horas" id="117" weight="1" />
+      <edge source="Ser Loras" target="Robert" id="118" weight="1" />
+      <edge source="Ser Meryn" target="Syrio" id="119" weight="1" />
+      <edge source="Syrio" target="pushcart" id="120" weight="1" />
+      <edge source="Ser Rodrik" target="Septon Chayle" id="121" weight="1" />
+      <edge source="Tom" target="Yoren" id="122" weight="1" />
+      <edge source="Tyrion Lannister" target="Littlefinger" id="123" weight="1" />
+      <edge source="Winterfell" target="Ser Meryn Trant" id="124" weight="1" />
+      <edge source="Wyl" target="Heward" id="125" weight="1" />
+      <edge source="the Free Cities" target="Myr" id="126" weight="1" />
+      <edge source="Myr" target="the Wind Witch" id="127" weight="1" />
+    </edges>
+  </graph>
+</gexf>
