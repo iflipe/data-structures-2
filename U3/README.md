@@ -1,0 +1,1 @@
+### For this final project, I encourage you to read my [article](https://medium.com/@hipolitofilipe/the-different-worlds-in-a-game-of-thrones-f10d1c12fe26) on medium.com about how I did it or just listento an [in-depth talk](https://notebooklm.google.com/notebook/599c7f5c-9158-4d49-a2ee-21ad4c9ce098/audio) hosted by NotebookLM.
