@@ -1,15 +1,11 @@
 <?xml version='1.0' encoding='utf-8'?>
 <gexf xmlns="http://www.gexf.net/1.2draft" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.gexf.net/1.2draft http://www.gexf.net/1.2draft/gexf.xsd" version="1.2">
-  <meta lastmodifieddate="2025-01-22">
+  <meta lastmodifieddate="2025-01-24">
     <creator>NetworkX 3.3</creator>
   </meta>
   <graph defaultedgetype="undirected" mode="static" name="">
     <nodes>
-      <node id="Aegon III" label="Aegon III" />
-      <node id="Targaryen" label="Targaryen" />
-      <node id="Viserys" label="Viserys" />
       <node id="Aggo" label="Aggo" />
-      <node id="Dany" label="Dany" />
       <node id="Rakharo" label="Rakharo" />
       <node id="khal" label="khal" />
       <node id="Andal" label="Andal" />
@@ -18,402 +14,403 @@
       <node id="Rhaesh Andahli" label="Rhaesh Andahli" />
       <node id="Asshai" label="Asshai" />
       <node id="Magister Illyrio" label="Magister Illyrio" />
-      <node id="Ser Jorah" label="Ser Jorah" />
       <node id="Ships" label="Ships" />
+      <node id="Yi Ti" label="Yi Ti" />
       <node id="Byan Votyris" label="Byan Votyris" />
+      <node id="Norvos" label="Norvos" />
       <node id="Norvoshi" label="Norvoshi" />
-      <node id="Citadel" label="Citadel" />
-      <node id="Oldtown" label="Oldtown" />
+      <node id="Pentos" label="Pentos" />
+      <node id="Qohor" label="Qohor" />
       <node id="Conqueror" label="Conqueror" />
       <node id="Aegon" label="Aegon" />
-      <node id="Daenerys" label="Daenerys" />
       <node id="Daenerys Stormborn" label="Daenerys Stormborn" />
-      <node id="Dothraki" label="Dothraki" />
-      <node id="House" label="House" />
+      <node id="Daenerys" label="Daenerys" />
       <node id="Khal Drogo" label="Khal Drogo" />
       <node id="King’s Landing" label="King’s Landing" />
-      <node id="Pentos" label="Pentos" />
-      <node id="Ser Jorah Mormont" label="Ser Jorah Mormont" />
-      <node id="the Seven Kingdoms" label="the Seven Kingdoms" />
-      <node id="Doreah" label="Doreah" />
+      <node id="Viserys" label="Viserys" />
+      <node id="Daenerys Targaryen" label="Daenerys Targaryen" />
+      <node id="Dany" label="Dany" />
       <node id="Dothraki Kingsguard" label="Dothraki Kingsguard" />
-      <node id="Illyrio" label="Illyrio" />
+      <node id="Free Cities" label="Free Cities" />
       <node id="Irri" label="Irri" />
       <node id="Jhiqui" label="Jhiqui" />
       <node id="Jhogo" label="Jhogo" />
-      <node id="Khal Drogo’s" label="Khal Drogo’s" />
       <node id="Lysene" label="Lysene" />
-      <node id="Magister Illyrio’s" label="Magister Illyrio’s" />
       <node id="Mago" label="Mago" />
-      <node id="Mirri Maz Duur" label="Mirri Maz Duur" />
-      <node id="the Free Cities" label="the Free Cities" />
+      <node id="Mormont" label="Mormont" />
+      <node id="Distantly" label="Distantly" />
+      <node id="Doreah" label="Doreah" />
       <node id="Dorne" label="Dorne" />
-      <node id="Casterly Rock" label="Casterly Rock" />
       <node id="Rhaegar" label="Rhaegar" />
-      <node id="the Isle of Faces" label="the Isle of Faces" />
-      <node id="the Vale of Arryn" label="the Vale of Arryn" />
+      <node id="Dothraki" label="Dothraki" />
       <node id="Khal Rhae Mhar" label="Khal Rhae Mhar" />
       <node id="Lys" label="Lys" />
       <node id="Pentoshi" label="Pentoshi" />
+      <node id="Qotho" label="Qotho" />
       <node id="Quaro" label="Quaro" />
       <node id="Robert" label="Robert" />
       <node id="Valyrian" label="Valyrian" />
+      <node id="the Common Tongue" label="the Common Tongue" />
+      <node id="the Seven Kingdoms" label="the Seven Kingdoms" />
       <node id="Dragonlord" label="Dragonlord" />
-      <node id="Dragonstone" label="Dragonstone" />
-      <node id="Drogo" label="Drogo" />
-      <node id="Rhaego" label="Rhaego" />
+      <node id="Eddard Stark" label="Eddard Stark" />
+      <node id="Stannis" label="Stannis" />
+      <node id="Tywin Lannister" label="Tywin Lannister" />
       <node id="Fogo" label="Fogo" />
-      <node id="Khal Jommo" label="Khal Jommo" />
       <node id="Khal Ogo" label="Khal Ogo" />
-      <node id="Free Cities" label="Free Cities" />
+      <node id="Ogo" label="Ogo" />
       <node id="Godswife" label="Godswife" />
       <node id="Marwyn" label="Marwyn" />
+      <node id="Greyjoy" label="Greyjoy" />
+      <node id="Tyrell" label="Tyrell" />
       <node id="Haggo" label="Haggo" />
-      <node id="Jorah" label="Jorah" />
-      <node id="Jhiqui the Dothraki" label="Jhiqui the Dothraki" />
-      <node id="Jorah the Andal" label="Jorah the Andal" />
-      <node id="Daenerys Targaryen" label="Daenerys Targaryen" />
-      <node id="Khal Jhaqo" label="Khal Jhaqo" />
-      <node id="Khal Moro" label="Khal Moro" />
-      <node id="Rhogoro" label="Rhogoro" />
-      <node id="Ogo" label="Ogo" />
-      <node id="Vaes Dothrak" label="Vaes Dothrak" />
-      <node id="the Common Tongue" label="the Common Tongue" />
-      <node id="Khal Ogo’s" label="Khal Ogo’s" />
-      <node id="Jhaqo" label="Jhaqo" />
-      <node id="Kingsguard" label="Kingsguard" />
-      <node id="Bold" label="Bold" />
-      <node id="King Aerys" label="King Aerys" />
-      <node id="Kingslayer" label="Kingslayer" />
-      <node id="Ser Barristan" label="Ser Barristan" />
-      <node id="Ko Jhaqo" label="Ko Jhaqo" />
-      <node id="Ko Pono" label="Ko Pono" />
-      <node id="Khal Pono" label="Khal Pono" />
-      <node id="Lannisport" label="Lannisport" />
-      <node id="torcs" label="torcs" />
-      <node id="Lannister" label="Lannister" />
-      <node id="Lhazareen" label="Lhazareen" />
-      <node id="Silver Lady" label="Silver Lady" />
-      <node id="Lorath" label="Lorath" />
-      <node id="Magic" label="Magic" />
-      <node id="Mirri" label="Mirri" />
+      <node id="House" label="House" />
+      <node id="Dragonstone" label="Dragonstone" />
+      <node id="Rhoynar" label="Rhoynar" />
+      <node id="Illyrio" label="Illyrio" />
       <node id="Iron Lord" label="Iron Lord" />
-      <node id="Mirri Maz Durr" label="Mirri Maz Durr" />
-      <node id="maegi" label="maegi" />
-      <node id="Mormont" label="Mormont" />
+      <node id="Mirri" label="Mirri" />
+      <node id="the Khal Rhaggat" label="the Khal Rhaggat" />
+      <node id="Jhaqo" label="Jhaqo" />
       <node id="Myr" label="Myr" />
       <node id="Tyrosh" label="Tyrosh" />
+      <node id="Jhiqui the Dothraki" label="Jhiqui the Dothraki" />
+      <node id="Jorah the Andal" label="Jorah the Andal" />
+      <node id="Khal Jhaqo" label="Khal Jhaqo" />
+      <node id="Jorah" label="Jorah" />
+      <node id="Khal Drogo’s" label="Khal Drogo’s" />
+      <node id="the Free Cities" label="the Free Cities" />
+      <node id="Khal Jommo" label="Khal Jommo" />
+      <node id="Khal Ogo’s" label="Khal Ogo’s" />
+      <node id="Kingslayer" label="Kingslayer" />
+      <node id="Bold" label="Bold" />
+      <node id="King Aerys" label="King Aerys" />
+      <node id="Kingsguard" label="Kingsguard" />
+      <node id="Lannister" label="Lannister" />
+      <node id="Ser Barristan" label="Ser Barristan" />
+      <node id="Ko Pono" label="Ko Pono" />
+      <node id="Khal Pono" label="Khal Pono" />
+      <node id="Lorath" label="Lorath" />
+      <node id="Magic" label="Magic" />
+      <node id="Magister Illyrio’s" label="Magister Illyrio’s" />
+      <node id="Ko Jhaqo" label="Ko Jhaqo" />
+      <node id="Mirri Maz Duur" label="Mirri Maz Duur" />
+      <node id="Lhazareen" label="Lhazareen" />
+      <node id="Silver Lady" label="Silver Lady" />
+      <node id="Oldtown" label="Oldtown" />
+      <node id="Citadel" label="Citadel" />
       <node id="Illyrio Mopatis" label="Illyrio Mopatis" />
-      <node id="Qartheen" label="Qartheen" />
+      <node id="Volantis" label="Volantis" />
+      <node id="Cohollo" label="Cohollo" />
+      <node id="Rhaego" label="Rhaego" />
+      <node id="Drogo" label="Drogo" />
+      <node id="Khalasar" label="Khalasar" />
+      <node id="Rhogoro" label="Rhogoro" />
+      <node id="Khal Moro" label="Khal Moro" />
+      <node id="Ser Jorah" label="Ser Jorah" />
+      <node id="Vaes Dothrak" label="Vaes Dothrak" />
+      <node id="khaleen" label="khaleen" />
+      <node id="Ser Jorah Mormont" label="Ser Jorah Mormont" />
+      <node id="Archon" label="Archon" />
+      <node id="Shamyriana" label="Shamyriana" />
       <node id="Bayasabhad" label="Bayasabhad" />
       <node id="Kayakayanaya" label="Kayakayanaya" />
-      <node id="Shamyriana" label="Shamyriana" />
-      <node id="Yi Ti" label="Yi Ti" />
-      <node id="Qohor" label="Qohor" />
-      <node id="Norvos" label="Norvos" />
-      <node id="Volantis" label="Volantis" />
-      <node id="Qotho" label="Qotho" />
-      <node id="Cohollo" label="Cohollo" />
-      <node id="Khalasar" label="Khalasar" />
-      <node id="Rhoynar" label="Rhoynar" />
-      <node id="Archon" label="Archon" />
+      <node id="Qartheen" label="Qartheen" />
       <node id="Smokeberry browns" label="Smokeberry browns" />
       <node id="Andalish" label="Andalish" />
-      <node id="Stannis" label="Stannis" />
-      <node id="Eddard Stark" label="Eddard Stark" />
-      <node id="Tywin Lannister" label="Tywin Lannister" />
+      <node id="Stark" label="Stark" />
       <node id="Sweet" label="Sweet" />
       <node id="Grace" label="Grace" />
-      <node id="Tyrell" label="Tyrell" />
-      <node id="Greyjoy" label="Greyjoy" />
+      <node id="Targaryen" label="Targaryen" />
+      <node id="Aegon III" label="Aegon III" />
       <node id="Tyroshi" label="Tyroshi" />
-      <node id="The Horse Gate" label="The Horse Gate" />
-      <node id="khaleen" label="khaleen" />
-      <node id="the Nine Free Cities" label="the Nine Free Cities" />
-      <node id="Stark" label="Stark" />
-      <node id="the Magister Illyrio" label="the Magister Illyrio" />
       <node id="Westeros" label="Westeros" />
       <node id="the Sunset Kingdoms" label="the Sunset Kingdoms" />
-      <node id="the Shadow Lands" label="the Shadow Lands" />
+      <node id="The Horse Gate" label="The Horse Gate" />
+      <node id="the Mother of Mountains" label="the Mother of Mountains" />
+      <node id="the Common Tongue of" label="the Common Tongue of" />
       <node id="Yi Ti, Qarth" label="Yi Ti, Qarth" />
-      <node id="Distantly" label="Distantly" />
       <node id="ko" label="ko" />
       <node id="kos" label="kos" />
       <node id="Pono" label="Pono" />
       <node id="lakeshore" label="lakeshore" />
       <node id="longsword" label="longsword" />
       <node id="Ser Jorah’s" label="Ser Jorah’s" />
-      <node id="the Common Tongue of" label="the Common Tongue of" />
-      <node id="the Khal Rhaggat" label="the Khal Rhaggat" />
-      <node id="the Mother of Mountains" label="the Mother of Mountains" />
+      <node id="maegi" label="maegi" />
+      <node id="Mirri Maz Durr" label="Mirri Maz Durr" />
+      <node id="the Isle of Faces" label="the Isle of Faces" />
+      <node id="Casterly Rock" label="Casterly Rock" />
+      <node id="the Vale of Arryn" label="the Vale of Arryn" />
+      <node id="the Magister Illyrio" label="the Magister Illyrio" />
+      <node id="the Nine Free Cities" label="the Nine Free Cities" />
       <node id="the Port of Ibben" label="the Port of Ibben" />
       <node id="the Summer Isles" label="the Summer Isles" />
+      <node id="the Shadow Lands" label="the Shadow Lands" />
+      <node id="torcs" label="torcs" />
+      <node id="Lannisport" label="Lannisport" />
     </nodes>
     <edges>
-      <edge source="Aegon III" target="Targaryen" id="0" weight="1" />
-      <edge source="Aegon III" target="Viserys" id="1" weight="1" />
-      <edge source="Viserys" target="Daenerys" id="2" weight="1" />
-      <edge source="Viserys" target="Dothraki" id="3" weight="1" />
-      <edge source="Viserys" target="Ogo" id="4" weight="1" />
-      <edge source="Viserys" target="Daenerys Targaryen" id="5" weight="1" />
-      <edge source="Viserys" target="Dany" id="6" weight="3" />
-      <edge source="Viserys" target="Doreah" id="7" weight="2" />
-      <edge source="Viserys" target="Jhogo" id="8" weight="1" />
-      <edge source="Viserys" target="Khal Drogo" id="9" weight="3" />
-      <edge source="Viserys" target="King’s Landing" id="10" weight="1" />
-      <edge source="Viserys" target="Lannister" id="11" weight="1" />
-      <edge source="Viserys" target="Magister Illyrio" id="12" weight="4" />
-      <edge source="Viserys" target="Mormont" id="13" weight="1" />
-      <edge source="Viserys" target="Pentos" id="14" weight="2" />
-      <edge source="Viserys" target="Rhaegar" id="15" weight="1" />
-      <edge source="Viserys" target="Ser Jorah" id="16" weight="3" />
-      <edge source="Viserys" target="Ser Jorah Mormont" id="17" weight="1" />
-      <edge source="Viserys" target="Stark" id="18" weight="1" />
-      <edge source="Viserys" target="the Magister Illyrio" id="19" weight="1" />
-      <edge source="Viserys" target="khal" id="20" weight="2" />
-      <edge source="Viserys" target="the Common Tongue" id="21" weight="1" />
-      <edge source="Aggo" target="Dany" id="22" weight="1" />
-      <edge source="Aggo" target="Rakharo" id="23" weight="1" />
-      <edge source="Aggo" target="khal" id="24" weight="1" />
-      <edge source="Dany" target="Doreah" id="25" weight="1" />
-      <edge source="Dany" target="Dothraki Kingsguard" id="26" weight="1" />
-      <edge source="Dany" target="Illyrio" id="27" weight="1" />
-      <edge source="Dany" target="Irri" id="28" weight="3" />
-      <edge source="Dany" target="Jhiqui" id="29" weight="5" />
-      <edge source="Dany" target="Jhogo" id="30" weight="2" />
-      <edge source="Dany" target="Khal Drogo" id="31" weight="8" />
-      <edge source="Dany" target="Khal Drogo’s" id="32" weight="2" />
-      <edge source="Dany" target="Khaleesi" id="33" weight="1" />
-      <edge source="Dany" target="Lysene" id="34" weight="1" />
-      <edge source="Dany" target="Magister Illyrio" id="35" weight="1" />
-      <edge source="Dany" target="Magister Illyrio’s" id="36" weight="1" />
-      <edge source="Dany" target="Mago" id="37" weight="1" />
-      <edge source="Dany" target="Mirri Maz Duur" id="38" weight="4" />
-      <edge source="Dany" target="Pentos" id="39" weight="1" />
-      <edge source="Dany" target="Ser Jorah" id="40" weight="7" />
-      <edge source="Dany" target="the Free Cities" id="41" weight="1" />
-      <edge source="Dany" target="the Seven Kingdoms" id="42" weight="1" />
-      <edge source="Dany" target="Dothraki" id="43" weight="6" />
-      <edge source="Dany" target="Fogo" id="44" weight="1" />
-      <edge source="Dany" target="Free Cities" id="45" weight="1" />
-      <edge source="Dany" target="Khal Ogo’s" id="46" weight="1" />
-      <edge source="Dany" target="Lhazareen" id="47" weight="1" />
-      <edge source="Dany" target="Magic" id="48" weight="1" />
-      <edge source="Dany" target="Mormont" id="49" weight="1" />
-      <edge source="Dany" target="Myr" id="50" weight="1" />
-      <edge source="Dany" target="Qotho" id="51" weight="2" />
-      <edge source="Dany" target="Vaes Dothrak" id="52" weight="1" />
-      <edge source="Dany" target="Westeros" id="53" weight="1" />
-      <edge source="Dany" target="khal" id="54" weight="9" />
-      <edge source="Dany" target="the Common Tongue" id="55" weight="2" />
-      <edge source="Rakharo" target="Khaleesi" id="56" weight="1" />
-      <edge source="Rakharo" target="Quaro" id="57" weight="2" />
-      <edge source="khal" target="Daenerys" id="58" weight="1" />
-      <edge source="khal" target="Fogo" id="59" weight="2" />
-      <edge source="khal" target="Khal Ogo" id="60" weight="1" />
-      <edge source="khal" target="Distantly" id="61" weight="1" />
-      <edge source="khal" target="Doreah" id="62" weight="1" />
-      <edge source="khal" target="Dothraki" id="63" weight="2" />
-      <edge source="khal" target="Jhaqo" id="64" weight="1" />
-      <edge source="khal" target="Jhiqui" id="65" weight="3" />
-      <edge source="khal" target="Jhogo" id="66" weight="1" />
-      <edge source="khal" target="Khaleesi" id="67" weight="1" />
-      <edge source="khal" target="Mirri Maz Duur" id="68" weight="1" />
-      <edge source="khal" target="Pentos" id="69" weight="1" />
-      <edge source="khal" target="Qotho" id="70" weight="1" />
-      <edge source="khal" target="Ser Jorah" id="71" weight="1" />
-      <edge source="khal" target="Vaes Dothrak" id="72" weight="1" />
-      <edge source="khal" target="khaleen" id="73" weight="1" />
-      <edge source="khal" target="maegi" id="74" weight="1" />
-      <edge source="khal" target="the Common Tongue of" id="75" weight="1" />
-      <edge source="Andal" target="Khaleesi" id="76" weight="1" />
-      <edge source="Khaleesi" target="Dothraki" id="77" weight="2" />
-      <edge source="Khaleesi" target="Irri" id="78" weight="1" />
-      <edge source="Khaleesi" target="Jhaqo" id="79" weight="1" />
-      <edge source="Khaleesi" target="Jhiqui" id="80" weight="3" />
-      <edge source="Khaleesi" target="Jhogo" id="81" weight="2" />
-      <edge source="Khaleesi" target="Khal Drogo’s" id="82" weight="1" />
-      <edge source="Khaleesi" target="Lysene" id="83" weight="1" />
-      <edge source="Khaleesi" target="Magister Illyrio" id="84" weight="2" />
-      <edge source="Khaleesi" target="Ser Jorah" id="85" weight="1" />
-      <edge source="Khaleesi" target="Qotho" id="86" weight="1" />
-      <edge source="Andals" target="Rhaesh Andahli" id="87" weight="1" />
-      <edge source="Asshai" target="Magister Illyrio" id="88" weight="1" />
-      <edge source="Asshai" target="Ser Jorah" id="89" weight="2" />
-      <edge source="Asshai" target="Ships" id="90" weight="1" />
-      <edge source="Asshai" target="Yi Ti" id="91" weight="2" />
-      <edge source="Asshai" target="Yi Ti, Qarth" id="92" weight="1" />
-      <edge source="Magister Illyrio" target="Dothraki" id="93" weight="3" />
-      <edge source="Magister Illyrio" target="Khal Drogo" id="94" weight="2" />
-      <edge source="Magister Illyrio" target="Lys" id="95" weight="1" />
-      <edge source="Magister Illyrio" target="Ser Jorah" id="96" weight="1" />
-      <edge source="Ser Jorah" target="Dothraki" id="97" weight="2" />
-      <edge source="Ser Jorah" target="Lhazareen" id="98" weight="1" />
-      <edge source="Ser Jorah" target="Ogo" id="99" weight="1" />
-      <edge source="Ser Jorah" target="Qotho" id="100" weight="2" />
-      <edge source="Ser Jorah" target="Quaro" id="101" weight="1" />
-      <edge source="Ser Jorah" target="Doreah" id="102" weight="1" />
-      <edge source="Ser Jorah" target="Irri" id="103" weight="1" />
-      <edge source="Ser Jorah" target="Jhogo" id="104" weight="1" />
-      <edge source="Ser Jorah" target="Khal Drogo" id="105" weight="1" />
-      <edge source="Ser Jorah" target="Lysene" id="106" weight="1" />
-      <edge source="Ser Jorah" target="Rhaegar" id="107" weight="2" />
-      <edge source="Ser Jorah" target="Vaes Dothrak" id="108" weight="4" />
-      <edge source="Ser Jorah" target="khaleen" id="109" weight="1" />
-      <edge source="Ser Jorah" target="the Common Tongue" id="110" weight="1" />
-      <edge source="Byan Votyris" target="Norvoshi" id="111" weight="1" />
-      <edge source="Byan Votyris" target="Qohor" id="112" weight="1" />
-      <edge source="Citadel" target="Oldtown" id="113" weight="1" />
-      <edge source="Conqueror" target="Aegon" id="114" weight="2" />
-      <edge source="Conqueror" target="Daenerys Stormborn" id="115" weight="1" />
-      <edge source="Aegon" target="Daenerys Stormborn" id="116" weight="2" />
-      <edge source="Aegon" target="Dragonlord" id="117" weight="1" />
-      <edge source="Daenerys" target="Daenerys Stormborn" id="118" weight="1" />
-      <edge source="Daenerys" target="Dothraki" id="119" weight="1" />
-      <edge source="Daenerys" target="House" id="120" weight="1" />
-      <edge source="Daenerys" target="Khal Drogo" id="121" weight="2" />
-      <edge source="Daenerys" target="King’s Landing" id="122" weight="1" />
-      <edge source="Daenerys" target="Pentos" id="123" weight="1" />
-      <edge source="Daenerys" target="Ser Jorah Mormont" id="124" weight="1" />
-      <edge source="Daenerys" target="the Seven Kingdoms" id="125" weight="1" />
-      <edge source="Daenerys Stormborn" target="House" id="126" weight="1" />
-      <edge source="Dothraki" target="Jhiqui" id="127" weight="1" />
-      <edge source="Dothraki" target="Khal Drogo" id="128" weight="4" />
-      <edge source="Dothraki" target="Khal Rhae Mhar" id="129" weight="1" />
-      <edge source="Dothraki" target="Lys" id="130" weight="1" />
-      <edge source="Dothraki" target="Lysene" id="131" weight="1" />
-      <edge source="Dothraki" target="Pentos" id="132" weight="2" />
-      <edge source="Dothraki" target="Pentoshi" id="133" weight="1" />
-      <edge source="Dothraki" target="Quaro" id="134" weight="1" />
-      <edge source="Dothraki" target="Robert" id="135" weight="1" />
-      <edge source="Dothraki" target="Valyrian" id="136" weight="1" />
-      <edge source="Dothraki" target="the Seven Kingdoms" id="137" weight="3" />
-      <edge source="Dothraki" target="Lhazareen" id="138" weight="1" />
-      <edge source="Dothraki" target="Qotho" id="139" weight="1" />
-      <edge source="Dothraki" target="khaleen" id="140" weight="1" />
-      <edge source="Dothraki" target="the Common Tongue" id="141" weight="1" />
-      <edge source="House" target="Dragonstone" id="142" weight="1" />
-      <edge source="House" target="Rhoynar" id="143" weight="1" />
-      <edge source="Khal Drogo" target="Illyrio" id="144" weight="2" />
-      <edge source="Khal Drogo" target="Daenerys Targaryen" id="145" weight="1" />
-      <edge source="Khal Drogo" target="Doreah" id="146" weight="1" />
-      <edge source="Khal Drogo" target="Pentos" id="147" weight="1" />
-      <edge source="Khal Drogo" target="Khal Ogo" id="148" weight="1" />
-      <edge source="Khal Drogo" target="Ogo" id="149" weight="1" />
-      <edge source="Khal Drogo" target="Quaro" id="150" weight="1" />
-      <edge source="Khal Drogo" target="Vaes Dothrak" id="151" weight="1" />
-      <edge source="Khal Drogo" target="Yi Ti" id="152" weight="1" />
-      <edge source="Khal Drogo" target="lakeshore" id="153" weight="1" />
-      <edge source="Khal Drogo" target="the Common Tongue" id="154" weight="1" />
-      <edge source="Khal Drogo" target="the Common Tongue of" id="155" weight="1" />
-      <edge source="King’s Landing" target="Dragonstone" id="156" weight="2" />
-      <edge source="Pentos" target="Free Cities" id="157" weight="1" />
-      <edge source="Pentos" target="Illyrio" id="158" weight="1" />
-      <edge source="Pentos" target="Illyrio Mopatis" id="159" weight="1" />
-      <edge source="Pentos" target="Qohor" id="160" weight="1" />
-      <edge source="Pentos" target="the Port of Ibben" id="161" weight="1" />
-      <edge source="Ser Jorah Mormont" target="Archon" id="162" weight="1" />
-      <edge source="Ser Jorah Mormont" target="Doreah" id="163" weight="1" />
-      <edge source="Ser Jorah Mormont" target="Jhiqui" id="164" weight="1" />
-      <edge source="the Seven Kingdoms" target="Dragonstone" id="165" weight="2" />
-      <edge source="the Seven Kingdoms" target="the Common Tongue" id="166" weight="1" />
-      <edge source="the Seven Kingdoms" target="the Common Tongue of" id="167" weight="3" />
-      <edge source="Doreah" target="Jhiqui" id="168" weight="4" />
-      <edge source="Doreah" target="Jhiqui the Dothraki" id="169" weight="1" />
-      <edge source="Doreah" target="Lysene" id="170" weight="1" />
-      <edge source="Illyrio" target="the Port of Ibben" id="171" weight="1" />
-      <edge source="Irri" target="Jhiqui" id="172" weight="1" />
-      <edge source="Irri" target="Jhogo" id="173" weight="1" />
-      <edge source="Irri" target="Jorah" id="174" weight="1" />
-      <edge source="Irri" target="Myr" id="175" weight="1" />
-      <edge source="Irri" target="Quaro" id="176" weight="1" />
-      <edge source="Irri" target="the Khal Rhaggat" id="177" weight="1" />
-      <edge source="Jhiqui" target="Mirri Maz Duur" id="178" weight="1" />
-      <edge source="Jhiqui" target="Rhaego" id="179" weight="1" />
-      <edge source="Jhiqui" target="Myr" id="180" weight="1" />
-      <edge source="Jhiqui" target="Vaes Dothrak" id="181" weight="1" />
-      <edge source="Jhogo" target="Haggo" id="182" weight="1" />
-      <edge source="Jhogo" target="Mirri Maz Duur" id="183" weight="1" />
-      <edge source="Jhogo" target="Jorah the Andal" id="184" weight="1" />
-      <edge source="Jhogo" target="Khal Jhaqo" id="185" weight="1" />
-      <edge source="Jhogo" target="Quaro" id="186" weight="1" />
-      <edge source="Jhogo" target="ko" id="187" weight="1" />
-      <edge source="Khal Drogo’s" target="Khal Ogo" id="188" weight="1" />
-      <edge source="Mago" target="Khal Jhaqo" id="189" weight="1" />
-      <edge source="Mago" target="Ko Jhaqo" id="190" weight="2" />
-      <edge source="Mirri Maz Duur" target="Lhazareen" id="191" weight="1" />
-      <edge source="Mirri Maz Duur" target="Qotho" id="192" weight="2" />
-      <edge source="Mirri Maz Duur" target="Quaro" id="193" weight="1" />
-      <edge source="Mirri Maz Duur" target="Silver Lady" id="194" weight="1" />
-      <edge source="the Free Cities" target="Vaes Dothrak" id="195" weight="1" />
-      <edge source="the Free Cities" target="the Common Tongue of" id="196" weight="1" />
-      <edge source="the Free Cities" target="Valyrian" id="197" weight="2" />
-      <edge source="the Free Cities" target="the Sunset Kingdoms" id="198" weight="1" />
-      <edge source="Dorne" target="Casterly Rock" id="199" weight="1" />
-      <edge source="Dorne" target="Rhaegar" id="200" weight="1" />
-      <edge source="Dorne" target="the Isle of Faces" id="201" weight="1" />
-      <edge source="Dorne" target="the Vale of Arryn" id="202" weight="1" />
-      <edge source="Lys" target="Lorath" id="203" weight="1" />
-      <edge source="Lys" target="Qohor" id="204" weight="1" />
-      <edge source="Lys" target="Tyroshi" id="205" weight="1" />
-      <edge source="Pentoshi" target="Yi Ti" id="206" weight="1" />
-      <edge source="Quaro" target="Qotho" id="207" weight="2" />
-      <edge source="Valyrian" target="the Common Tongue of" id="208" weight="1" />
-      <edge source="Drogo" target="Rhaego" id="209" weight="1" />
-      <edge source="Rhaego" target="Khalasar" id="210" weight="1" />
-      <edge source="Fogo" target="Khal Jommo" id="211" weight="1" />
-      <edge source="Fogo" target="Khal Ogo" id="212" weight="1" />
-      <edge source="Khal Jommo" target="Khal Ogo" id="213" weight="2" />
-      <edge source="Khal Ogo" target="Ogo" id="214" weight="1" />
-      <edge source="Khal Ogo" target="Vaes Dothrak" id="215" weight="1" />
-      <edge source="Khal Ogo" target="the Common Tongue" id="216" weight="1" />
-      <edge source="Godswife" target="Marwyn" id="217" weight="1" />
-      <edge source="Marwyn" target="the Common Tongue" id="218" weight="1" />
-      <edge source="Haggo" target="Qotho" id="219" weight="2" />
-      <edge source="Khal Moro" target="Rhogoro" id="220" weight="1" />
-      <edge source="Ogo" target="Vaes Dothrak" id="221" weight="1" />
-      <edge source="Vaes Dothrak" target="The Horse Gate" id="222" weight="1" />
-      <edge source="Vaes Dothrak" target="khaleen" id="223" weight="2" />
-      <edge source="Vaes Dothrak" target="the Nine Free Cities" id="224" weight="1" />
-      <edge source="Vaes Dothrak" target="the Mother of Mountains" id="225" weight="2" />
-      <edge source="Jhaqo" target="kos" id="226" weight="1" />
-      <edge source="Kingsguard" target="Bold" id="227" weight="1" />
-      <edge source="Kingsguard" target="King Aerys" id="228" weight="1" />
-      <edge source="Kingsguard" target="Kingslayer" id="229" weight="1" />
-      <edge source="Kingsguard" target="Ser Barristan" id="230" weight="1" />
-      <edge source="Kingslayer" target="Lannister" id="231" weight="1" />
-      <edge source="Ko Pono" target="Khal Pono" id="232" weight="1" />
-      <edge source="Lannisport" target="torcs" id="233" weight="1" />
-      <edge source="Lhazareen" target="Silver Lady" id="234" weight="1" />
-      <edge source="Mirri" target="Iron Lord" id="235" weight="1" />
-      <edge source="Mirri Maz Durr" target="maegi" id="236" weight="1" />
-      <edge source="maegi" target="Qotho" id="237" weight="2" />
-      <edge source="Mormont" target="Qotho" id="238" weight="1" />
-      <edge source="Myr" target="Tyrosh" id="239" weight="1" />
-      <edge source="Myr" target="Qohor" id="240" weight="1" />
-      <edge source="Myr" target="Tyroshi" id="241" weight="1" />
-      <edge source="Myr" target="the Port of Ibben" id="242" weight="1" />
-      <edge source="Tyrosh" target="Qohor" id="243" weight="1" />
-      <edge source="Tyrosh" target="the Port of Ibben" id="244" weight="1" />
-      <edge source="Qartheen" target="Bayasabhad" id="245" weight="1" />
-      <edge source="Qartheen" target="Kayakayanaya" id="246" weight="1" />
-      <edge source="Qartheen" target="Shamyriana" id="247" weight="1" />
-      <edge source="Qartheen" target="Yi Ti" id="248" weight="1" />
-      <edge source="Yi Ti" target="the Shadow Lands" id="249" weight="1" />
-      <edge source="Qohor" target="Norvos" id="250" weight="1" />
-      <edge source="Qohor" target="Volantis" id="251" weight="1" />
-      <edge source="Qotho" target="Cohollo" id="252" weight="1" />
-      <edge source="Qotho" target="longsword" id="253" weight="1" />
-      <edge source="Smokeberry browns" target="Andalish" id="254" weight="1" />
-      <edge source="Stannis" target="Eddard Stark" id="255" weight="1" />
-      <edge source="Stannis" target="Tywin Lannister" id="256" weight="1" />
-      <edge source="Sweet" target="Grace" id="257" weight="1" />
-      <edge source="Tyrell" target="Greyjoy" id="258" weight="1" />
-      <edge source="Tyroshi" target="Westeros" id="259" weight="1" />
-      <edge source="Westeros" target="the Sunset Kingdoms" id="260" weight="1" />
-      <edge source="kos" target="Pono" id="261" weight="1" />
-      <edge source="longsword" target="Ser Jorah’s" id="262" weight="1" />
-      <edge source="the Port of Ibben" target="the Summer Isles" id="263" weight="1" />
+      <edge source="Aggo" target="Rakharo" id="0" weight="1" />
+      <edge source="Aggo" target="khal" id="1" weight="1" />
+      <edge source="Aggo" target="Dany" id="2" weight="1" />
+      <edge source="Rakharo" target="Khal Drogo’s" id="3" weight="1" />
+      <edge source="Rakharo" target="Quaro" id="4" weight="1" />
+      <edge source="Rakharo" target="Khal Drogo" id="5" weight="1" />
+      <edge source="khal" target="Dany" id="6" weight="7" />
+      <edge source="khal" target="Distantly" id="7" weight="1" />
+      <edge source="khal" target="Doreah" id="8" weight="1" />
+      <edge source="khal" target="Dothraki" id="9" weight="2" />
+      <edge source="khal" target="Fogo" id="10" weight="2" />
+      <edge source="khal" target="Jhaqo" id="11" weight="1" />
+      <edge source="khal" target="Jhiqui" id="12" weight="2" />
+      <edge source="khal" target="Jhogo" id="13" weight="1" />
+      <edge source="khal" target="Khal Ogo" id="14" weight="1" />
+      <edge source="khal" target="Mirri Maz Duur" id="15" weight="1" />
+      <edge source="khal" target="Pentos" id="16" weight="1" />
+      <edge source="khal" target="Ser Jorah" id="17" weight="1" />
+      <edge source="khal" target="Vaes Dothrak" id="18" weight="1" />
+      <edge source="khal" target="Valyrian" id="19" weight="1" />
+      <edge source="khal" target="Daenerys" id="20" weight="1" />
+      <edge source="khal" target="Khaleesi" id="21" weight="1" />
+      <edge source="khal" target="Viserys" id="22" weight="1" />
+      <edge source="khal" target="khaleen" id="23" weight="1" />
+      <edge source="khal" target="maegi" id="24" weight="1" />
+      <edge source="Andal" target="Khaleesi" id="25" weight="1" />
+      <edge source="Khaleesi" target="Dany" id="26" weight="1" />
+      <edge source="Khaleesi" target="Dothraki" id="27" weight="2" />
+      <edge source="Khaleesi" target="Irri" id="28" weight="1" />
+      <edge source="Khaleesi" target="Jhaqo" id="29" weight="1" />
+      <edge source="Khaleesi" target="Jhiqui" id="30" weight="3" />
+      <edge source="Khaleesi" target="Jhogo" id="31" weight="3" />
+      <edge source="Khaleesi" target="Khal Drogo’s" id="32" weight="1" />
+      <edge source="Khaleesi" target="Lysene" id="33" weight="1" />
+      <edge source="Khaleesi" target="Magister Illyrio" id="34" weight="2" />
+      <edge source="Khaleesi" target="Qotho" id="35" weight="1" />
+      <edge source="Khaleesi" target="Ser Jorah" id="36" weight="1" />
+      <edge source="Andals" target="Rhaesh Andahli" id="37" weight="1" />
+      <edge source="Asshai" target="Magister Illyrio" id="38" weight="1" />
+      <edge source="Asshai" target="Ships" id="39" weight="1" />
+      <edge source="Asshai" target="Yi Ti" id="40" weight="1" />
+      <edge source="Asshai" target="Ser Jorah" id="41" weight="2" />
+      <edge source="Asshai" target="Yi Ti, Qarth" id="42" weight="1" />
+      <edge source="Asshai" target="the Shadow Lands" id="43" weight="1" />
+      <edge source="Magister Illyrio" target="Dany" id="44" weight="1" />
+      <edge source="Magister Illyrio" target="Dothraki" id="45" weight="3" />
+      <edge source="Magister Illyrio" target="Lys" id="46" weight="1" />
+      <edge source="Magister Illyrio" target="Khal Drogo" id="47" weight="2" />
+      <edge source="Magister Illyrio" target="Pentos" id="48" weight="1" />
+      <edge source="Magister Illyrio" target="Viserys" id="49" weight="4" />
+      <edge source="Magister Illyrio" target="Ser Jorah" id="50" weight="1" />
+      <edge source="Yi Ti" target="Pentoshi" id="51" weight="1" />
+      <edge source="Yi Ti" target="Shamyriana" id="52" weight="1" />
+      <edge source="Yi Ti" target="the Shadow Lands" id="53" weight="1" />
+      <edge source="Byan Votyris" target="Norvos" id="54" weight="1" />
+      <edge source="Byan Votyris" target="Norvoshi" id="55" weight="1" />
+      <edge source="Byan Votyris" target="Pentos" id="56" weight="1" />
+      <edge source="Byan Votyris" target="Qohor" id="57" weight="1" />
+      <edge source="Pentos" target="Dany" id="58" weight="2" />
+      <edge source="Pentos" target="Dothraki" id="59" weight="2" />
+      <edge source="Pentos" target="Illyrio" id="60" weight="1" />
+      <edge source="Pentos" target="Daenerys Targaryen" id="61" weight="1" />
+      <edge source="Pentos" target="Illyrio Mopatis" id="62" weight="1" />
+      <edge source="Pentos" target="Khal Drogo" id="63" weight="1" />
+      <edge source="Pentos" target="Viserys" id="64" weight="1" />
+      <edge source="Pentos" target="Ser Jorah Mormont" id="65" weight="1" />
+      <edge source="Pentos" target="the Port of Ibben" id="66" weight="1" />
+      <edge source="Qohor" target="Lys" id="67" weight="1" />
+      <edge source="Qohor" target="Myr" id="68" weight="1" />
+      <edge source="Qohor" target="Tyrosh" id="69" weight="1" />
+      <edge source="Qohor" target="Volantis" id="70" weight="1" />
+      <edge source="Conqueror" target="Aegon" id="71" weight="3" />
+      <edge source="Conqueror" target="Daenerys Stormborn" id="72" weight="1" />
+      <edge source="Aegon" target="Dragonlord" id="73" weight="1" />
+      <edge source="Aegon" target="House" id="74" weight="1" />
+      <edge source="Daenerys Stormborn" target="House" id="75" weight="2" />
+      <edge source="Daenerys" target="Khal Drogo" id="76" weight="1" />
+      <edge source="Daenerys" target="King’s Landing" id="77" weight="1" />
+      <edge source="Daenerys" target="Viserys" id="78" weight="1" />
+      <edge source="Daenerys" target="Dothraki" id="79" weight="1" />
+      <edge source="Daenerys" target="House" id="80" weight="2" />
+      <edge source="Daenerys" target="Ser Jorah Mormont" id="81" weight="1" />
+      <edge source="Khal Drogo" target="Dany" id="82" weight="8" />
+      <edge source="Khal Drogo" target="Doreah" id="83" weight="1" />
+      <edge source="Khal Drogo" target="Dothraki" id="84" weight="4" />
+      <edge source="Khal Drogo" target="Illyrio" id="85" weight="2" />
+      <edge source="Khal Drogo" target="Viserys" id="86" weight="2" />
+      <edge source="Khal Drogo" target="Ogo" id="87" weight="1" />
+      <edge source="Khal Drogo" target="Ser Jorah" id="88" weight="1" />
+      <edge source="Khal Drogo" target="Vaes Dothrak" id="89" weight="1" />
+      <edge source="Khal Drogo" target="lakeshore" id="90" weight="1" />
+      <edge source="Khal Drogo" target="the Common Tongue" id="91" weight="2" />
+      <edge source="Khal Drogo" target="the Seven Kingdoms" id="92" weight="1" />
+      <edge source="Khal Drogo" target="the Shadow Lands" id="93" weight="1" />
+      <edge source="King’s Landing" target="Dragonstone" id="94" weight="1" />
+      <edge source="King’s Landing" target="Stark" id="95" weight="1" />
+      <edge source="King’s Landing" target="the Seven Kingdoms" id="96" weight="1" />
+      <edge source="Viserys" target="Daenerys Targaryen" id="97" weight="1" />
+      <edge source="Viserys" target="Dany" id="98" weight="2" />
+      <edge source="Viserys" target="Doreah" id="99" weight="2" />
+      <edge source="Viserys" target="Dothraki" id="100" weight="1" />
+      <edge source="Viserys" target="Jhogo" id="101" weight="1" />
+      <edge source="Viserys" target="Mormont" id="102" weight="1" />
+      <edge source="Viserys" target="Rhaegar" id="103" weight="1" />
+      <edge source="Viserys" target="Ser Jorah" id="104" weight="3" />
+      <edge source="Viserys" target="Ser Jorah Mormont" id="105" weight="1" />
+      <edge source="Viserys" target="Stark" id="106" weight="1" />
+      <edge source="Viserys" target="Targaryen" id="107" weight="1" />
+      <edge source="Viserys" target="Vaes Dothrak" id="108" weight="1" />
+      <edge source="Viserys" target="the Common Tongue" id="109" weight="1" />
+      <edge source="Viserys" target="the Magister Illyrio" id="110" weight="1" />
+      <edge source="Dany" target="Dothraki Kingsguard" id="111" weight="1" />
+      <edge source="Dany" target="Free Cities" id="112" weight="1" />
+      <edge source="Dany" target="Irri" id="113" weight="2" />
+      <edge source="Dany" target="Jhiqui" id="114" weight="1" />
+      <edge source="Dany" target="Jhogo" id="115" weight="1" />
+      <edge source="Dany" target="Lysene" id="116" weight="1" />
+      <edge source="Dany" target="Mago" id="117" weight="1" />
+      <edge source="Dany" target="Mormont" id="118" weight="1" />
+      <edge source="Dany" target="Distantly" id="119" weight="1" />
+      <edge source="Dany" target="Doreah" id="120" weight="2" />
+      <edge source="Dany" target="Dothraki" id="121" weight="8" />
+      <edge source="Dany" target="Illyrio" id="122" weight="1" />
+      <edge source="Dany" target="Khal Drogo’s" id="123" weight="2" />
+      <edge source="Dany" target="Khal Ogo" id="124" weight="1" />
+      <edge source="Dany" target="Khal Ogo’s" id="125" weight="1" />
+      <edge source="Dany" target="Magic" id="126" weight="1" />
+      <edge source="Dany" target="Magister Illyrio’s" id="127" weight="1" />
+      <edge source="Dany" target="Mirri Maz Duur" id="128" weight="5" />
+      <edge source="Dany" target="Ser Jorah" id="129" weight="9" />
+      <edge source="Dany" target="Tyroshi" id="130" weight="1" />
+      <edge source="Dany" target="Vaes Dothrak" id="131" weight="1" />
+      <edge source="Dany" target="the Common Tongue" id="132" weight="1" />
+      <edge source="Dany" target="the Seven Kingdoms" id="133" weight="1" />
+      <edge source="Irri" target="Doreah" id="134" weight="1" />
+      <edge source="Irri" target="Quaro" id="135" weight="1" />
+      <edge source="Irri" target="the Khal Rhaggat" id="136" weight="1" />
+      <edge source="Irri" target="Jhiqui" id="137" weight="2" />
+      <edge source="Irri" target="Jhogo" id="138" weight="1" />
+      <edge source="Irri" target="Jorah" id="139" weight="1" />
+      <edge source="Irri" target="Ser Jorah" id="140" weight="1" />
+      <edge source="Jhiqui" target="Distantly" id="141" weight="1" />
+      <edge source="Jhiqui" target="Doreah" id="142" weight="5" />
+      <edge source="Jhiqui" target="Dothraki" id="143" weight="1" />
+      <edge source="Jhiqui" target="Myr" id="144" weight="1" />
+      <edge source="Jhiqui" target="Tyrosh" id="145" weight="1" />
+      <edge source="Jhiqui" target="Mirri Maz Duur" id="146" weight="1" />
+      <edge source="Jhiqui" target="Rhaego" id="147" weight="1" />
+      <edge source="Jhiqui" target="Ser Jorah Mormont" id="148" weight="1" />
+      <edge source="Jhiqui" target="Vaes Dothrak" id="149" weight="1" />
+      <edge source="Jhogo" target="Haggo" id="150" weight="1" />
+      <edge source="Jhogo" target="Jorah the Andal" id="151" weight="1" />
+      <edge source="Jhogo" target="Khal Jhaqo" id="152" weight="1" />
+      <edge source="Jhogo" target="Mago" id="153" weight="1" />
+      <edge source="Jhogo" target="Mirri Maz Duur" id="154" weight="1" />
+      <edge source="Jhogo" target="Ser Jorah" id="155" weight="2" />
+      <edge source="Jhogo" target="ko" id="156" weight="1" />
+      <edge source="Lysene" target="Doreah" id="157" weight="1" />
+      <edge source="Lysene" target="Dothraki" id="158" weight="1" />
+      <edge source="Lysene" target="Ser Jorah" id="159" weight="1" />
+      <edge source="Mago" target="Ko Jhaqo" id="160" weight="2" />
+      <edge source="Mormont" target="Qotho" id="161" weight="1" />
+      <edge source="Doreah" target="Jhiqui the Dothraki" id="162" weight="1" />
+      <edge source="Doreah" target="Ser Jorah" id="163" weight="1" />
+      <edge source="Doreah" target="Ser Jorah Mormont" id="164" weight="1" />
+      <edge source="Dorne" target="Rhaegar" id="165" weight="1" />
+      <edge source="Dorne" target="the Isle of Faces" id="166" weight="1" />
+      <edge source="Rhaegar" target="Ser Jorah" id="167" weight="2" />
+      <edge source="Dothraki" target="Khal Rhae Mhar" id="168" weight="1" />
+      <edge source="Dothraki" target="Lys" id="169" weight="1" />
+      <edge source="Dothraki" target="Pentoshi" id="170" weight="1" />
+      <edge source="Dothraki" target="Qotho" id="171" weight="1" />
+      <edge source="Dothraki" target="Quaro" id="172" weight="1" />
+      <edge source="Dothraki" target="Robert" id="173" weight="1" />
+      <edge source="Dothraki" target="Valyrian" id="174" weight="1" />
+      <edge source="Dothraki" target="the Common Tongue" id="175" weight="1" />
+      <edge source="Dothraki" target="the Seven Kingdoms" id="176" weight="3" />
+      <edge source="Dothraki" target="Ser Jorah" id="177" weight="3" />
+      <edge source="Dothraki" target="khaleen" id="178" weight="1" />
+      <edge source="Lys" target="Lorath" id="179" weight="1" />
+      <edge source="Lys" target="Tyroshi" id="180" weight="1" />
+      <edge source="Qotho" target="Haggo" id="181" weight="2" />
+      <edge source="Qotho" target="Mirri Maz Duur" id="182" weight="3" />
+      <edge source="Qotho" target="Cohollo" id="183" weight="1" />
+      <edge source="Qotho" target="Quaro" id="184" weight="2" />
+      <edge source="Qotho" target="Ser Jorah" id="185" weight="2" />
+      <edge source="Qotho" target="longsword" id="186" weight="1" />
+      <edge source="Qotho" target="maegi" id="187" weight="2" />
+      <edge source="Quaro" target="Mirri Maz Duur" id="188" weight="1" />
+      <edge source="Quaro" target="Ser Jorah" id="189" weight="1" />
+      <edge source="Valyrian" target="the Common Tongue of" id="190" weight="1" />
+      <edge source="Valyrian" target="the Free Cities" id="191" weight="3" />
+      <edge source="Valyrian" target="the Seven Kingdoms" id="192" weight="1" />
+      <edge source="the Common Tongue" target="Marwyn" id="193" weight="1" />
+      <edge source="the Common Tongue" target="Ser Jorah" id="194" weight="1" />
+      <edge source="the Common Tongue" target="Khal Ogo" id="195" weight="1" />
+      <edge source="the Common Tongue" target="the Seven Kingdoms" id="196" weight="1" />
+      <edge source="the Seven Kingdoms" target="House" id="197" weight="2" />
+      <edge source="the Seven Kingdoms" target="Dragonstone" id="198" weight="1" />
+      <edge source="the Seven Kingdoms" target="the Common Tongue of" id="199" weight="2" />
+      <edge source="Eddard Stark" target="Stannis" id="200" weight="1" />
+      <edge source="Eddard Stark" target="Tywin Lannister" id="201" weight="1" />
+      <edge source="Fogo" target="Khal Ogo" id="202" weight="1" />
+      <edge source="Fogo" target="Ogo" id="203" weight="1" />
+      <edge source="Khal Ogo" target="Khal Drogo’s" id="204" weight="1" />
+      <edge source="Khal Ogo" target="Khal Jommo" id="205" weight="1" />
+      <edge source="Khal Ogo" target="Vaes Dothrak" id="206" weight="1" />
+      <edge source="Ogo" target="Ser Jorah" id="207" weight="1" />
+      <edge source="Ogo" target="Vaes Dothrak" id="208" weight="1" />
+      <edge source="Godswife" target="Marwyn" id="209" weight="1" />
+      <edge source="Greyjoy" target="Tyrell" id="210" weight="1" />
+      <edge source="House" target="Dragonstone" id="211" weight="1" />
+      <edge source="House" target="Rhoynar" id="212" weight="1" />
+      <edge source="Illyrio" target="the Port of Ibben" id="213" weight="1" />
+      <edge source="Iron Lord" target="Mirri" id="214" weight="1" />
+      <edge source="Jhaqo" target="kos" id="215" weight="1" />
+      <edge source="Myr" target="Tyroshi" id="216" weight="1" />
+      <edge source="Myr" target="the Port of Ibben" id="217" weight="1" />
+      <edge source="Tyrosh" target="the Port of Ibben" id="218" weight="1" />
+      <edge source="Khal Drogo’s" target="the Free Cities" id="219" weight="1" />
+      <edge source="the Free Cities" target="Vaes Dothrak" id="220" weight="1" />
+      <edge source="the Free Cities" target="the Sunset Kingdoms" id="221" weight="1" />
+      <edge source="Khal Jommo" target="Vaes Dothrak" id="222" weight="1" />
+      <edge source="Kingslayer" target="Bold" id="223" weight="1" />
+      <edge source="Kingslayer" target="King Aerys" id="224" weight="1" />
+      <edge source="Kingslayer" target="Kingsguard" id="225" weight="1" />
+      <edge source="Kingslayer" target="Lannister" id="226" weight="1" />
+      <edge source="Kingslayer" target="Ser Barristan" id="227" weight="1" />
+      <edge source="Lannister" target="Stark" id="228" weight="1" />
+      <edge source="Ko Pono" target="Khal Pono" id="229" weight="1" />
+      <edge source="Mirri Maz Duur" target="Lhazareen" id="230" weight="1" />
+      <edge source="Mirri Maz Duur" target="Silver Lady" id="231" weight="2" />
+      <edge source="Mirri Maz Duur" target="Ser Jorah" id="232" weight="1" />
+      <edge source="Lhazareen" target="Ser Jorah" id="233" weight="1" />
+      <edge source="Oldtown" target="Citadel" id="234" weight="1" />
+      <edge source="Rhaego" target="Drogo" id="235" weight="1" />
+      <edge source="Rhaego" target="Khalasar" id="236" weight="1" />
+      <edge source="Rhogoro" target="Khal Moro" id="237" weight="1" />
+      <edge source="Ser Jorah" target="Vaes Dothrak" id="238" weight="2" />
+      <edge source="Ser Jorah" target="khaleen" id="239" weight="1" />
+      <edge source="Vaes Dothrak" target="The Horse Gate" id="240" weight="1" />
+      <edge source="Vaes Dothrak" target="khaleen" id="241" weight="2" />
+      <edge source="Vaes Dothrak" target="the Mother of Mountains" id="242" weight="2" />
+      <edge source="Vaes Dothrak" target="the Nine Free Cities" id="243" weight="1" />
+      <edge source="Ser Jorah Mormont" target="Archon" id="244" weight="1" />
+      <edge source="Shamyriana" target="Bayasabhad" id="245" weight="1" />
+      <edge source="Shamyriana" target="Kayakayanaya" id="246" weight="1" />
+      <edge source="Shamyriana" target="Qartheen" id="247" weight="1" />
+      <edge source="Smokeberry browns" target="Andalish" id="248" weight="1" />
+      <edge source="Sweet" target="Grace" id="249" weight="1" />
+      <edge source="Targaryen" target="Aegon III" id="250" weight="1" />
+      <edge source="Tyroshi" target="Westeros" id="251" weight="1" />
+      <edge source="Tyroshi" target="the Sunset Kingdoms" id="252" weight="1" />
+      <edge source="Westeros" target="the Sunset Kingdoms" id="253" weight="1" />
+      <edge source="kos" target="Pono" id="254" weight="1" />
+      <edge source="longsword" target="Ser Jorah’s" id="255" weight="1" />
+      <edge source="maegi" target="Mirri Maz Durr" id="256" weight="1" />
+      <edge source="the Isle of Faces" target="Casterly Rock" id="257" weight="1" />
+      <edge source="the Isle of Faces" target="the Vale of Arryn" id="258" weight="1" />
+      <edge source="the Port of Ibben" target="the Summer Isles" id="259" weight="1" />
+      <edge source="torcs" target="Lannisport" id="260" weight="1" />
     </edges>
   </graph>
 </gexf>
