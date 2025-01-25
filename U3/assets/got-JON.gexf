@@ -1,373 +1,444 @@
 <?xml version='1.0' encoding='utf-8'?>
 <gexf xmlns="http://www.gexf.net/1.2draft" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.gexf.net/1.2draft http://www.gexf.net/1.2draft/gexf.xsd" version="1.2">
-  <meta lastmodifieddate="2025-01-24">
+  <meta lastmodifieddate="2025-01-25">
     <creator>NetworkX 3.3</creator>
   </meta>
   <graph defaultedgetype="undirected" mode="static" name="">
     <nodes>
+      <node id="Albett" label="Albett" />
+      <node id="Halder" label="Halder" />
       <node id="Alliser Thorne" label="Alliser Thorne" />
       <node id="malignance" label="malignance" />
       <node id="Arya" label="Arya" />
-      <node id="Jon" label="Jon" />
       <node id="Needle" label="Needle" />
-      <node id="Robb" label="Robb" />
-      <node id="Sansa" label="Sansa" />
-      <node id="Tommen" label="Tommen" />
-      <node id="Winterfell" label="Winterfell" />
-      <node id="Ben Jen" label="Ben Jen" />
-      <node id="raven" label="raven" />
+      <node id="Baratheon" label="Baratheon" />
+      <node id="Lannister" label="Lannister" />
       <node id="Ben Stark" label="Ben Stark" />
+      <node id="Castle Black" label="Castle Black" />
+      <node id="Jon Snow" label="Jon Snow" />
       <node id="the Old Bear" label="the Old Bear" />
       <node id="Benjen" label="Benjen" />
       <node id="Ser Jaremy" label="Ser Jaremy" />
       <node id="Benjen Stark" label="Benjen Stark" />
-      <node id="Jon Snow" label="Jon Snow" />
-      <node id="Theon Greyjoy" label="Theon Greyjoy" />
+      <node id="Jon" label="Jon" />
+      <node id="Mance Rayder" label="Mance Rayder" />
+      <node id="Thorne" label="Thorne" />
+      <node id="wildlings" label="wildlings" />
       <node id="Black Harren" label="Black Harren" />
       <node id="Aegon" label="Aegon" />
       <node id="Bowen Marsh" label="Bowen Marsh" />
-      <node id="Lannister" label="Lannister" />
       <node id="Maester Aemon" label="Maester Aemon" />
-      <node id="Mormont" label="Mormont" />
       <node id="Othell Yarwyck" label="Othell Yarwyck" />
       <node id="Ser Alliser" label="Ser Alliser" />
-      <node id="Ser Jaremy Rykker" label="Ser Jaremy Rykker" />
-      <node id="Wall" label="Wall" />
-      <node id="m’lord" label="m’lord" />
-      <node id="the Lord Steward" label="the Lord Steward" />
-      <node id="Castle Black" label="Castle Black" />
-      <node id="Citadel" label="Citadel" />
-      <node id="Eastwatch" label="Eastwatch" />
+      <node id="Grenn" label="Grenn" />
+      <node id="Pyp" label="Pyp" />
+      <node id="Sam" label="Sam" />
+      <node id="Cersei" label="Cersei" />
+      <node id="Jaime" label="Jaime" />
+      <node id="Tyrion" label="Tyrion" />
       <node id="Chett" label="Chett" />
-      <node id="Clegane" label="Clegane" />
-      <node id="Selmy" label="Selmy" />
       <node id="Clydas" label="Clydas" />
+      <node id="Citadel" label="Citadel" />
+      <node id="Mormont" label="Mormont" />
       <node id="Cotter Pyke" label="Cotter Pyke" />
       <node id="Jeren" label="Jeren" />
-      <node id="Craven" label="Craven" />
-      <node id="Samwell Tarly" label="Samwell Tarly" />
-      <node id="Cuger" label="Cuger" />
-      <node id="Rast" label="Rast" />
-      <node id="Sam" label="Sam" />
-      <node id="Daeren Targaryen" label="Daeren Targaryen" />
-      <node id="Dorne" label="Dorne" />
-      <node id="Ser Alliser Thorne" label="Ser Alliser Thorne" />
-      <node id="Fat Tom" label="Fat Tom" />
       <node id="Desmond" label="Desmond" />
+      <node id="Fat Tom" label="Fat Tom" />
+      <node id="Donal Noye" label="Donal Noye" />
+      <node id="King Robert" label="King Robert" />
+      <node id="Rhaegar Targaryen" label="Rhaegar Targaryen" />
+      <node id="Dorne" label="Dorne" />
+      <node id="Casterly Rock" label="Casterly Rock" />
+      <node id="Daeren Targaryen" label="Daeren Targaryen" />
+      <node id="Eastwatch" label="Eastwatch" />
+      <node id="Ser Alliser Thorne" label="Ser Alliser Thorne" />
+      <node id="Free Cities" label="Free Cities" />
+      <node id="Myr" label="Myr" />
+      <node id="Pentos" label="Pentos" />
       <node id="Goldengrove" label="Goldengrove" />
       <node id="Rowan" label="Rowan" />
-      <node id="Grenn" label="Grenn" />
-      <node id="Albett" label="Albett" />
       <node id="Noye" label="Noye" />
-      <node id="Pyp" label="Pyp" />
       <node id="Toad" label="Toad" />
       <node id="Hake" label="Hake" />
       <node id="Ketter" label="Ketter" />
-      <node id="Halder" label="Halder" />
+      <node id="Rast" label="Rast" />
+      <node id="Hardin" label="Hardin" />
+      <node id="Tower" label="Tower" />
       <node id="Highgarden" label="Highgarden" />
-      <node id="Tyrell" label="Tyrell" />
+      <node id="Mace Tyrell" label="Mace Tyrell" />
+      <node id="Southron" label="Southron" />
+      <node id="Tarlys" label="Tarlys" />
+      <node id="Warden" label="Warden" />
+      <node id="Ho" label="Ho" />
+      <node id="Hobb" label="Hobb" />
+      <node id="Longclaw" label="Longclaw" />
       <node id="House" label="House" />
+      <node id="Ser Jaremy Rykker" label="Ser Jaremy Rykker" />
+      <node id="direwolf" label="direwolf" />
       <node id="Hullen" label="Hullen" />
+      <node id="Robb" label="Robb" />
       <node id="Imp" label="Imp" />
       <node id="Lion" label="Lion" />
       <node id="Tyrion Lannister" label="Tyrion Lannister" />
       <node id="Jafer Flowers" label="Jafer Flowers" />
-      <node id="Jaime" label="Jaime" />
-      <node id="Cersei" label="Cersei" />
-      <node id="Tyrion" label="Tyrion" />
       <node id="Joffrey" label="Joffrey" />
+      <node id="Sansa" label="Sansa" />
+      <node id="the King’s Hand" label="the King’s Hand" />
+      <node id="Joffrey Baratheon" label="Joffrey Baratheon" />
       <node id="Ben" label="Ben" />
+      <node id="Bran" label="Bran" />
       <node id="Dareon" label="Dareon" />
-      <node id="Donal Noye" label="Donal Noye" />
-      <node id="Hobb" label="Hobb" />
+      <node id="Fingers" label="Fingers" />
       <node id="Jory" label="Jory" />
       <node id="Lady Stark" label="Lady Stark" />
       <node id="Othor" label="Othor" />
       <node id="Sam Tarly" label="Sam Tarly" />
+      <node id="Samwell Tarly" label="Samwell Tarly" />
       <node id="Septon Celladar" label="Septon Celladar" />
       <node id="Ser Barristan" label="Ser Barristan" />
       <node id="Ser Rodrik" label="Ser Rodrik" />
+      <node id="Ser Rodrik Cassel" label="Ser Rodrik Cassel" />
       <node id="Stark" label="Stark" />
-      <node id="Thorne" label="Thorne" />
-      <node id="Uncle Benjen" label="Uncle Benjen" />
-      <node id="Winterfell’s Great Hall" label="Winterfell’s Great Hall" />
+      <node id="Starks" label="Starks" />
+      <node id="Steward" label="Steward" />
       <node id="maester" label="maester" />
-      <node id="the King’s Hand" label="the King’s Hand" />
       <node id="the Seven Kingdoms" label="the Seven Kingdoms" />
-      <node id="wolf" label="wolf" />
-      <node id="King’s Landing" label="King’s Landing" />
-      <node id="Lady Piggy" label="Lady Piggy" />
-      <node id="Baratheon" label="Baratheon" />
-      <node id="Longclaw" label="Longclaw" />
-      <node id="Maekar" label="Maekar" />
       <node id="Maester" label="Maester" />
-      <node id="Maester Luwin" label="Maester Luwin" />
-      <node id="Mance Rayder" label="Mance Rayder" />
-      <node id="Gorge" label="Gorge" />
-      <node id="Quorin Halfhand" label="Quorin Halfhand" />
-      <node id="wildlings" label="wildlings" />
-      <node id="Mole" label="Mole" />
-      <node id="Ned Stark" label="Ned Stark" />
-      <node id="Nymeria" label="Nymeria" />
       <node id="Lady" label="Lady" />
-      <node id="Old Nan" label="Old Nan" />
-      <node id="Pentos" label="Pentos" />
-      <node id="Free Cities" label="Free Cities" />
-      <node id="Myr" label="Myr" />
-      <node id="Ho" label="Ho" />
-      <node id="Snow" label="Snow" />
-      <node id="gallop" label="gallop" />
+      <node id="Nymeria" label="Nymeria" />
+      <node id="Lady Piggy" label="Lady Piggy" />
+      <node id="come King Robert" label="come King Robert" />
+      <node id="Wall" label="Wall" />
+      <node id="Maekar" label="Maekar" />
+      <node id="Ser Alliser cold" label="Ser Alliser cold" />
+      <node id="Maester Luwin" label="Maester Luwin" />
+      <node id="Gorge" label="Gorge" />
+      <node id="Matt" label="Matt" />
+      <node id="Mole" label="Mole" />
+      <node id="Prince Joffrey" label="Prince Joffrey" />
+      <node id="Robert" label="Robert" />
+      <node id="Quorin Halfhand" label="Quorin Halfhand" />
       <node id="Randyll Tarly" label="Randyll Tarly" />
       <node id="Heartsbane" label="Heartsbane" />
-      <node id="Samwell" label="Samwell" />
       <node id="Valyrian" label="Valyrian" />
-      <node id="Rhaegar Targaryen" label="Rhaegar Targaryen" />
-      <node id="King Robert" label="King Robert" />
+      <node id="Rangers" label="Rangers" />
+      <node id="Ser Denys" label="Ser Denys" />
+      <node id="Cuger" label="Cuger" />
       <node id="Rickon" label="Rickon" />
-      <node id="Bran" label="Bran" />
-      <node id="Robert" label="Robert" />
-      <node id="Prince Joffrey" label="Prince Joffrey" />
+      <node id="Riverrun" label="Riverrun" />
+      <node id="the Isles of Faces" label="the Isles of Faces" />
       <node id="Robert Baratheon" label="Robert Baratheon" />
+      <node id="Winterfell" label="Winterfell" />
       <node id="Randyll" label="Randyll" />
       <node id="Sam knelt" label="Sam knelt" />
       <node id="Jon knelt" label="Jon knelt" />
-      <node id="Joffrey Baratheon" label="Joffrey Baratheon" />
-      <node id="evenfall" label="evenfall" />
-      <node id="Ser Alliser cold" label="Ser Alliser cold" />
-      <node id="Stannis" label="Stannis" />
-      <node id="Ser Denys" label="Ser Denys" />
-      <node id="Rangers" label="Rangers" />
+      <node id="Samwell" label="Samwell" />
+      <node id="Craven" label="Craven" />
+      <node id="Selmy" label="Selmy" />
+      <node id="Clegane" label="Clegane" />
       <node id="Ser Jaime Lannister" label="Ser Jaime Lannister" />
       <node id="Queen Cersei" label="Queen Cersei" />
-      <node id="Ser Rodrik Cassel" label="Ser Rodrik Cassel" />
+      <node id="the Lord Steward" label="the Lord Steward" />
       <node id="Ser Waymar Royce" label="Ser Waymar Royce" />
       <node id="bannerman" label="bannerman" />
-      <node id="Southron" label="Southron" />
-      <node id="Starks" label="Starks" />
-      <node id="Steward" label="Steward" />
+      <node id="Snow" label="Snow" />
+      <node id="Stannis" label="Stannis" />
+      <node id="Theon Greyjoy" label="Theon Greyjoy" />
       <node id="Theon" label="Theon" />
-      <node id="Matt" label="Matt" />
-      <node id="Tower" label="Tower" />
-      <node id="Hardin" label="Hardin" />
+      <node id="Tommen" label="Tommen" />
+      <node id="Tyrell" label="Tyrell" />
       <node id="Tywin" label="Tywin" />
-      <node id="Warden" label="Warden" />
-      <node id="Mace Tyrell" label="Mace Tyrell" />
-      <node id="Tarlys" label="Tarlys" />
+      <node id="Uncle Benjen" label="Uncle Benjen" />
+      <node id="King’s Landing" label="King’s Landing" />
+      <node id="Ned Stark" label="Ned Stark" />
+      <node id="Old Nan" label="Old Nan" />
+      <node id="Winterfell’s Great Hall" label="Winterfell’s Great Hall" />
       <node id="Yoren" label="Yoren" />
-      <node id="Fingers" label="Fingers" />
-      <node id="come King Robert" label="come King Robert" />
-      <node id="direwolf" label="direwolf" />
-      <node id="the Isles of Faces" label="the Isles of Faces" />
-      <node id="Casterly Rock" label="Casterly Rock" />
-      <node id="Riverrun" label="Riverrun" />
+      <node id="evenfall" label="evenfall" />
+      <node id="gallop" label="gallop" />
+      <node id="m’lord" label="m’lord" />
+      <node id="raven" label="raven" />
+      <node id="Ben Jen" label="Ben Jen" />
       <node id="the Tyrells of Highgarden" label="the Tyrells of Highgarden" />
       <node id="Lord Randyll" label="Lord Randyll" />
+      <node id="wolf" label="wolf" />
     </nodes>
     <edges>
-      <edge source="Alliser Thorne" target="malignance" id="0" weight="1" />
-      <edge source="Alliser Thorne" target="Jon" id="1" weight="1" />
-      <edge source="Arya" target="Jon" id="2" weight="2" />
-      <edge source="Arya" target="Needle" id="3" weight="1" />
-      <edge source="Arya" target="Robb" id="4" weight="5" />
-      <edge source="Arya" target="Sansa" id="5" weight="2" />
-      <edge source="Arya" target="Tommen" id="6" weight="1" />
-      <edge source="Arya" target="Winterfell" id="7" weight="1" />
-      <edge source="Jon" target="Benjen" id="8" weight="2" />
-      <edge source="Jon" target="Bowen Marsh" id="9" weight="1" />
-      <edge source="Jon" target="Castle Black" id="10" weight="1" />
-      <edge source="Jon" target="Daeren Targaryen" id="11" weight="1" />
-      <edge source="Jon" target="Grenn" id="12" weight="9" />
-      <edge source="Jon" target="Albett" id="13" weight="1" />
-      <edge source="Jon" target="Ben" id="14" weight="1" />
-      <edge source="Jon" target="Ben Stark" id="15" weight="1" />
-      <edge source="Jon" target="Benjen Stark" id="16" weight="6" />
-      <edge source="Jon" target="Chett" id="17" weight="3" />
-      <edge source="Jon" target="Dareon" id="18" weight="1" />
-      <edge source="Jon" target="Donal Noye" id="19" weight="2" />
-      <edge source="Jon" target="Halder" id="20" weight="1" />
-      <edge source="Jon" target="Hobb" id="21" weight="1" />
-      <edge source="Jon" target="Joffrey" id="22" weight="2" />
-      <edge source="Jon" target="Jory" id="23" weight="1" />
-      <edge source="Jon" target="Lady Stark" id="24" weight="3" />
-      <edge source="Jon" target="Lannister" id="25" weight="1" />
-      <edge source="Jon" target="Maester Aemon" id="26" weight="7" />
-      <edge source="Jon" target="Mormont" id="27" weight="9" />
-      <edge source="Jon" target="Noye" id="28" weight="2" />
-      <edge source="Jon" target="Othor" id="29" weight="1" />
-      <edge source="Jon" target="Pyp" id="30" weight="3" />
-      <edge source="Jon" target="Rast" id="31" weight="2" />
-      <edge source="Jon" target="Robb" id="32" weight="7" />
-      <edge source="Jon" target="Sam" id="33" weight="8" />
-      <edge source="Jon" target="Sam Tarly" id="34" weight="2" />
-      <edge source="Jon" target="Samwell Tarly" id="35" weight="7" />
-      <edge source="Jon" target="Sansa" id="36" weight="1" />
-      <edge source="Jon" target="Septon Celladar" id="37" weight="1" />
-      <edge source="Jon" target="Ser Alliser" id="38" weight="3" />
-      <edge source="Jon" target="Ser Alliser Thorne" id="39" weight="3" />
-      <edge source="Jon" target="Ser Barristan" id="40" weight="1" />
-      <edge source="Jon" target="Ser Jaremy" id="41" weight="1" />
-      <edge source="Jon" target="Ser Rodrik" id="42" weight="1" />
-      <edge source="Jon" target="Stark" id="43" weight="2" />
-      <edge source="Jon" target="Thorne" id="44" weight="2" />
-      <edge source="Jon" target="Tyrion Lannister" id="45" weight="4" />
-      <edge source="Jon" target="Uncle Benjen" id="46" weight="1" />
-      <edge source="Jon" target="Winterfell" id="47" weight="1" />
-      <edge source="Jon" target="Winterfell’s Great Hall" id="48" weight="1" />
-      <edge source="Jon" target="maester" id="49" weight="1" />
-      <edge source="Jon" target="the King’s Hand" id="50" weight="1" />
-      <edge source="Jon" target="the Seven Kingdoms" id="51" weight="1" />
-      <edge source="Jon" target="wolf" id="52" weight="1" />
-      <edge source="Jon" target="Rickon" id="53" weight="1" />
-      <edge source="Jon" target="Ser Rodrik Cassel" id="54" weight="1" />
-      <edge source="Jon" target="Starks" id="55" weight="1" />
-      <edge source="Jon" target="Steward" id="56" weight="2" />
-      <edge source="Jon" target="Yoren" id="57" weight="1" />
-      <edge source="Jon" target="direwolf" id="58" weight="2" />
-      <edge source="Robb" target="Hullen" id="59" weight="1" />
-      <edge source="Robb" target="Pyp" id="60" weight="1" />
-      <edge source="Robb" target="Rickon" id="61" weight="3" />
-      <edge source="Robb" target="Stark" id="62" weight="1" />
-      <edge source="Robb" target="Winterfell" id="63" weight="2" />
-      <edge source="Robb" target="Ser Rodrik" id="64" weight="1" />
-      <edge source="Robb" target="Uncle Benjen" id="65" weight="1" />
-      <edge source="Sansa" target="Joffrey Baratheon" id="66" weight="1" />
-      <edge source="Winterfell" target="Grenn" id="67" weight="1" />
-      <edge source="Winterfell" target="Joffrey" id="68" weight="1" />
-      <edge source="Winterfell" target="King’s Landing" id="69" weight="1" />
-      <edge source="Winterfell" target="Ned Stark" id="70" weight="1" />
-      <edge source="Winterfell" target="Old Nan" id="71" weight="1" />
-      <edge source="Winterfell" target="Robert Baratheon" id="72" weight="1" />
-      <edge source="Winterfell" target="Ser Rodrik" id="73" weight="1" />
-      <edge source="Winterfell" target="the Isles of Faces" id="74" weight="1" />
-      <edge source="Ben Jen" target="raven" id="75" weight="1" />
-      <edge source="raven" target="Mormont" id="76" weight="2" />
-      <edge source="Ben Stark" target="the Old Bear" id="77" weight="1" />
-      <edge source="Ben Stark" target="Castle Black" id="78" weight="1" />
-      <edge source="Ben Stark" target="Jon Snow" id="79" weight="1" />
-      <edge source="the Old Bear" target="Snow" id="80" weight="1" />
-      <edge source="Benjen" target="Ser Jaremy" id="81" weight="1" />
-      <edge source="Ser Jaremy" target="Jafer Flowers" id="82" weight="1" />
-      <edge source="Ser Jaremy" target="Toad" id="83" weight="1" />
-      <edge source="Benjen Stark" target="Jon Snow" id="84" weight="1" />
-      <edge source="Benjen Stark" target="Theon Greyjoy" id="85" weight="1" />
-      <edge source="Benjen Stark" target="Bowen Marsh" id="86" weight="1" />
-      <edge source="Benjen Stark" target="Mance Rayder" id="87" weight="1" />
-      <edge source="Benjen Stark" target="Thorne" id="88" weight="1" />
-      <edge source="Jon Snow" target="Samwell Tarly" id="89" weight="1" />
-      <edge source="Jon Snow" target="Maester" id="90" weight="1" />
-      <edge source="Jon Snow" target="Maester Luwin" id="91" weight="1" />
-      <edge source="Jon Snow" target="Ser Alliser" id="92" weight="1" />
-      <edge source="Theon Greyjoy" target="Theon" id="93" weight="1" />
-      <edge source="Black Harren" target="Aegon" id="94" weight="1" />
-      <edge source="Aegon" target="Maekar" id="95" weight="1" />
-      <edge source="Bowen Marsh" target="Lannister" id="96" weight="1" />
-      <edge source="Bowen Marsh" target="Maester Aemon" id="97" weight="1" />
-      <edge source="Bowen Marsh" target="Mormont" id="98" weight="1" />
-      <edge source="Bowen Marsh" target="Othell Yarwyck" id="99" weight="1" />
-      <edge source="Bowen Marsh" target="Ser Alliser" id="100" weight="1" />
-      <edge source="Bowen Marsh" target="Ser Jaremy Rykker" id="101" weight="1" />
-      <edge source="Bowen Marsh" target="Wall" id="102" weight="1" />
-      <edge source="Bowen Marsh" target="m’lord" id="103" weight="1" />
-      <edge source="Bowen Marsh" target="the Lord Steward" id="104" weight="1" />
-      <edge source="Lannister" target="Baratheon" id="105" weight="1" />
-      <edge source="Lannister" target="wolf" id="106" weight="1" />
-      <edge source="Maester Aemon" target="Chett" id="107" weight="2" />
-      <edge source="Maester Aemon" target="Clydas" id="108" weight="1" />
-      <edge source="Maester Aemon" target="Samwell" id="109" weight="1" />
-      <edge source="Maester Aemon" target="Ser Alliser cold" id="110" weight="1" />
-      <edge source="Mormont" target="Ser Alliser cold" id="111" weight="1" />
-      <edge source="Mormont" target="Steward" id="112" weight="1" />
-      <edge source="Ser Alliser" target="Grenn" id="113" weight="1" />
-      <edge source="Ser Alliser" target="Halder" id="114" weight="1" />
-      <edge source="Ser Alliser" target="Pyp" id="115" weight="1" />
-      <edge source="Ser Alliser" target="Joffrey" id="116" weight="1" />
-      <edge source="Ser Alliser" target="Sam" id="117" weight="2" />
-      <edge source="Ser Jaremy Rykker" target="House" id="118" weight="1" />
-      <edge source="Ser Jaremy Rykker" target="Jafer Flowers" id="119" weight="1" />
-      <edge source="Ser Jaremy Rykker" target="Quorin Halfhand" id="120" weight="1" />
-      <edge source="Castle Black" target="Citadel" id="121" weight="1" />
-      <edge source="Castle Black" target="Eastwatch" id="122" weight="1" />
-      <edge source="Castle Black" target="Grenn" id="123" weight="1" />
-      <edge source="Eastwatch" target="Ser Alliser Thorne" id="124" weight="1" />
-      <edge source="Chett" target="Clydas" id="125" weight="1" />
-      <edge source="Clegane" target="Selmy" id="126" weight="1" />
-      <edge source="Clydas" target="Ser Alliser cold" id="127" weight="1" />
-      <edge source="Cotter Pyke" target="Jeren" id="128" weight="1" />
-      <edge source="Jeren" target="Grenn" id="129" weight="1" />
-      <edge source="Craven" target="Samwell Tarly" id="130" weight="1" />
-      <edge source="Samwell Tarly" target="Rast" id="131" weight="1" />
-      <edge source="Samwell Tarly" target="Tyrion Lannister" id="132" weight="1" />
-      <edge source="Cuger" target="Rast" id="133" weight="1" />
-      <edge source="Cuger" target="Sam" id="134" weight="1" />
-      <edge source="Rast" target="Halder" id="135" weight="1" />
-      <edge source="Rast" target="Lady Piggy" id="136" weight="1" />
-      <edge source="Sam" target="Grenn" id="137" weight="3" />
-      <edge source="Sam" target="House" id="138" weight="1" />
-      <edge source="Sam" target="Mole" id="139" weight="1" />
-      <edge source="Sam" target="Randyll" id="140" weight="1" />
-      <edge source="Sam" target="Snow" id="141" weight="1" />
-      <edge source="Sam" target="Toad" id="142" weight="1" />
-      <edge source="Daeren Targaryen" target="Dorne" id="143" weight="1" />
-      <edge source="Dorne" target="the Isles of Faces" id="144" weight="1" />
-      <edge source="Ser Alliser Thorne" target="maester" id="145" weight="1" />
-      <edge source="Ser Alliser Thorne" target="Valyrian" id="146" weight="1" />
-      <edge source="Fat Tom" target="Desmond" id="147" weight="1" />
-      <edge source="Goldengrove" target="Rowan" id="148" weight="1" />
-      <edge source="Grenn" target="Albett" id="149" weight="1" />
-      <edge source="Grenn" target="Noye" id="150" weight="1" />
-      <edge source="Grenn" target="Pyp" id="151" weight="7" />
-      <edge source="Grenn" target="Toad" id="152" weight="3" />
-      <edge source="Albett" target="Halder" id="153" weight="2" />
-      <edge source="Pyp" target="Halder" id="154" weight="1" />
-      <edge source="Pyp" target="Ho" id="155" weight="1" />
-      <edge source="Pyp" target="Snow" id="156" weight="1" />
-      <edge source="Pyp" target="gallop" id="157" weight="1" />
-      <edge source="Pyp" target="the Seven Kingdoms" id="158" weight="1" />
-      <edge source="Pyp" target="Toad" id="159" weight="1" />
-      <edge source="Toad" target="Halder" id="160" weight="1" />
-      <edge source="Toad" target="Matt" id="161" weight="1" />
-      <edge source="Toad" target="Valyrian" id="162" weight="1" />
-      <edge source="Hake" target="Ketter" id="163" weight="1" />
-      <edge source="Highgarden" target="Tyrell" id="164" weight="1" />
-      <edge source="Highgarden" target="Southron" id="165" weight="1" />
-      <edge source="Highgarden" target="Warden" id="166" weight="1" />
-      <edge source="House" target="direwolf" id="167" weight="1" />
-      <edge source="Imp" target="Lion" id="168" weight="1" />
-      <edge source="Imp" target="Tyrion Lannister" id="169" weight="1" />
-      <edge source="Tyrion Lannister" target="Tywin" id="170" weight="1" />
-      <edge source="Jaime" target="Cersei" id="171" weight="1" />
-      <edge source="Jaime" target="Tyrion" id="172" weight="1" />
-      <edge source="Donal Noye" target="Rhaegar Targaryen" id="173" weight="1" />
-      <edge source="Hobb" target="Longclaw" id="174" weight="1" />
-      <edge source="Lady Stark" target="come King Robert" id="175" weight="1" />
-      <edge source="Septon Celladar" target="evenfall" id="176" weight="1" />
-      <edge source="Ser Barristan" target="Stannis" id="177" weight="1" />
-      <edge source="Stark" target="Snow" id="178" weight="1" />
-      <edge source="Thorne" target="Lady Piggy" id="179" weight="1" />
-      <edge source="Mance Rayder" target="Gorge" id="180" weight="1" />
-      <edge source="Mance Rayder" target="Quorin Halfhand" id="181" weight="1" />
-      <edge source="Mance Rayder" target="wildlings" id="182" weight="1" />
-      <edge source="Nymeria" target="Lady" id="183" weight="1" />
-      <edge source="Pentos" target="Free Cities" id="184" weight="1" />
-      <edge source="Pentos" target="Myr" id="185" weight="1" />
-      <edge source="Snow" target="Tower" id="186" weight="1" />
-      <edge source="Randyll Tarly" target="Heartsbane" id="187" weight="1" />
-      <edge source="Randyll Tarly" target="Samwell" id="188" weight="1" />
-      <edge source="Randyll Tarly" target="Valyrian" id="189" weight="1" />
-      <edge source="Rhaegar Targaryen" target="King Robert" id="190" weight="1" />
-      <edge source="Rickon" target="Bran" id="191" weight="1" />
-      <edge source="Robert" target="Prince Joffrey" id="192" weight="1" />
-      <edge source="Sam knelt" target="Jon knelt" id="193" weight="1" />
-      <edge source="Ser Denys" target="Rangers" id="194" weight="1" />
-      <edge source="Ser Jaime Lannister" target="Queen Cersei" id="195" weight="1" />
-      <edge source="Ser Waymar Royce" target="bannerman" id="196" weight="1" />
-      <edge source="Tower" target="Hardin" id="197" weight="2" />
-      <edge source="Warden" target="Mace Tyrell" id="198" weight="1" />
-      <edge source="Warden" target="Tarlys" id="199" weight="1" />
-      <edge source="Yoren" target="Fingers" id="200" weight="1" />
-      <edge source="the Isles of Faces" target="Casterly Rock" id="201" weight="1" />
-      <edge source="the Isles of Faces" target="Riverrun" id="202" weight="1" />
-      <edge source="the Tyrells of Highgarden" target="Lord Randyll" id="203" weight="1" />
+      <edge source="Albett" target="Halder" id="0" weight="1" />
+      <edge source="Albett" target="Grenn" id="1" weight="1" />
+      <edge source="Albett" target="Jon" id="2" weight="2" />
+      <edge source="Albett" target="Pyp" id="3" weight="1" />
+      <edge source="Albett" target="Rast" id="4" weight="1" />
+      <edge source="Halder" target="Rast" id="5" weight="1" />
+      <edge source="Halder" target="Jon" id="6" weight="1" />
+      <edge source="Halder" target="Pyp" id="7" weight="1" />
+      <edge source="Halder" target="Ser Alliser" id="8" weight="1" />
+      <edge source="Halder" target="Thorne" id="9" weight="1" />
+      <edge source="Halder" target="Toad" id="10" weight="1" />
+      <edge source="Alliser Thorne" target="malignance" id="11" weight="1" />
+      <edge source="Alliser Thorne" target="Jon" id="12" weight="1" />
+      <edge source="Arya" target="Needle" id="13" weight="1" />
+      <edge source="Arya" target="Jon" id="14" weight="2" />
+      <edge source="Arya" target="Robb" id="15" weight="5" />
+      <edge source="Arya" target="Sansa" id="16" weight="2" />
+      <edge source="Arya" target="Tommen" id="17" weight="1" />
+      <edge source="Arya" target="Winterfell" id="18" weight="1" />
+      <edge source="Needle" target="Robb" id="19" weight="1" />
+      <edge source="Needle" target="Winterfell" id="20" weight="1" />
+      <edge source="Baratheon" target="Lannister" id="21" weight="1" />
+      <edge source="Lannister" target="Jon" id="22" weight="1" />
+      <edge source="Lannister" target="Bowen Marsh" id="23" weight="1" />
+      <edge source="Lannister" target="Mormont" id="24" weight="1" />
+      <edge source="Lannister" target="Ser Alliser" id="25" weight="1" />
+      <edge source="Lannister" target="Wall" id="26" weight="1" />
+      <edge source="Lannister" target="wolf" id="27" weight="1" />
+      <edge source="Ben Stark" target="Castle Black" id="28" weight="1" />
+      <edge source="Ben Stark" target="Jon Snow" id="29" weight="1" />
+      <edge source="Ben Stark" target="the Old Bear" id="30" weight="1" />
+      <edge source="Ben Stark" target="Jon" id="31" weight="1" />
+      <edge source="Ben Stark" target="Tyrion Lannister" id="32" weight="1" />
+      <edge source="Castle Black" target="Grenn" id="33" weight="1" />
+      <edge source="Castle Black" target="Pyp" id="34" weight="1" />
+      <edge source="Castle Black" target="Sam" id="35" weight="1" />
+      <edge source="Castle Black" target="Citadel" id="36" weight="1" />
+      <edge source="Castle Black" target="Eastwatch" id="37" weight="1" />
+      <edge source="Castle Black" target="Jon" id="38" weight="3" />
+      <edge source="Castle Black" target="Winterfell" id="39" weight="1" />
+      <edge source="Jon Snow" target="Benjen Stark" id="40" weight="1" />
+      <edge source="Jon Snow" target="Maester" id="41" weight="1" />
+      <edge source="Jon Snow" target="Samwell Tarly" id="42" weight="1" />
+      <edge source="Jon Snow" target="Ser Alliser" id="43" weight="1" />
+      <edge source="Jon Snow" target="Maester Luwin" id="44" weight="1" />
+      <edge source="the Old Bear" target="Snow" id="45" weight="1" />
+      <edge source="Benjen" target="Ser Jaremy" id="46" weight="1" />
+      <edge source="Benjen" target="Jon" id="47" weight="2" />
+      <edge source="Ser Jaremy" target="Jafer Flowers" id="48" weight="1" />
+      <edge source="Ser Jaremy" target="Jon" id="49" weight="1" />
+      <edge source="Ser Jaremy" target="Matt" id="50" weight="1" />
+      <edge source="Ser Jaremy" target="Toad" id="51" weight="1" />
+      <edge source="Benjen Stark" target="Jon" id="52" weight="6" />
+      <edge source="Benjen Stark" target="Mance Rayder" id="53" weight="1" />
+      <edge source="Benjen Stark" target="Thorne" id="54" weight="1" />
+      <edge source="Benjen Stark" target="wildlings" id="55" weight="1" />
+      <edge source="Benjen Stark" target="Bowen Marsh" id="56" weight="1" />
+      <edge source="Benjen Stark" target="Othell Yarwyck" id="57" weight="1" />
+      <edge source="Benjen Stark" target="Ser Jaremy Rykker" id="58" weight="1" />
+      <edge source="Benjen Stark" target="Theon Greyjoy" id="59" weight="1" />
+      <edge source="Benjen Stark" target="the Lord Steward" id="60" weight="1" />
+      <edge source="Jon" target="Bowen Marsh" id="61" weight="1" />
+      <edge source="Jon" target="Chett" id="62" weight="3" />
+      <edge source="Jon" target="Donal Noye" id="63" weight="2" />
+      <edge source="Jon" target="Grenn" id="64" weight="9" />
+      <edge source="Jon" target="Ben" id="65" weight="1" />
+      <edge source="Jon" target="Bran" id="66" weight="1" />
+      <edge source="Jon" target="Daeren Targaryen" id="67" weight="1" />
+      <edge source="Jon" target="Dareon" id="68" weight="1" />
+      <edge source="Jon" target="Dorne" id="69" weight="1" />
+      <edge source="Jon" target="Fingers" id="70" weight="1" />
+      <edge source="Jon" target="Hobb" id="71" weight="1" />
+      <edge source="Jon" target="Joffrey" id="72" weight="2" />
+      <edge source="Jon" target="Jory" id="73" weight="1" />
+      <edge source="Jon" target="Lady Stark" id="74" weight="3" />
+      <edge source="Jon" target="Mormont" id="75" weight="9" />
+      <edge source="Jon" target="Othor" id="76" weight="1" />
+      <edge source="Jon" target="Pyp" id="77" weight="1" />
+      <edge source="Jon" target="Rast" id="78" weight="2" />
+      <edge source="Jon" target="Robb" id="79" weight="8" />
+      <edge source="Jon" target="Sam" id="80" weight="1" />
+      <edge source="Jon" target="Sam Tarly" id="81" weight="2" />
+      <edge source="Jon" target="Samwell Tarly" id="82" weight="7" />
+      <edge source="Jon" target="Sansa" id="83" weight="1" />
+      <edge source="Jon" target="Septon Celladar" id="84" weight="1" />
+      <edge source="Jon" target="Ser Alliser" id="85" weight="4" />
+      <edge source="Jon" target="Ser Alliser Thorne" id="86" weight="1" />
+      <edge source="Jon" target="Ser Barristan" id="87" weight="1" />
+      <edge source="Jon" target="Ser Rodrik" id="88" weight="1" />
+      <edge source="Jon" target="Ser Rodrik Cassel" id="89" weight="1" />
+      <edge source="Jon" target="Stark" id="90" weight="2" />
+      <edge source="Jon" target="Starks" id="91" weight="1" />
+      <edge source="Jon" target="Steward" id="92" weight="2" />
+      <edge source="Jon" target="Thorne" id="93" weight="1" />
+      <edge source="Jon" target="Tyrion Lannister" id="94" weight="4" />
+      <edge source="Jon" target="direwolf" id="95" weight="2" />
+      <edge source="Jon" target="maester" id="96" weight="1" />
+      <edge source="Jon" target="the King’s Hand" id="97" weight="1" />
+      <edge source="Jon" target="the Seven Kingdoms" id="98" weight="1" />
+      <edge source="Jon" target="Maester Aemon" id="99" weight="7" />
+      <edge source="Jon" target="Noye" id="100" weight="2" />
+      <edge source="Jon" target="Rickon" id="101" weight="1" />
+      <edge source="Jon" target="Toad" id="102" weight="1" />
+      <edge source="Jon" target="Uncle Benjen" id="103" weight="1" />
+      <edge source="Jon" target="Winterfell" id="104" weight="1" />
+      <edge source="Jon" target="Winterfell’s Great Hall" id="105" weight="1" />
+      <edge source="Jon" target="Yoren" id="106" weight="1" />
+      <edge source="Jon" target="wolf" id="107" weight="1" />
+      <edge source="Mance Rayder" target="Gorge" id="108" weight="1" />
+      <edge source="Mance Rayder" target="wildlings" id="109" weight="1" />
+      <edge source="Mance Rayder" target="Quorin Halfhand" id="110" weight="1" />
+      <edge source="Thorne" target="Lady Piggy" id="111" weight="1" />
+      <edge source="Thorne" target="Rast" id="112" weight="1" />
+      <edge source="Black Harren" target="Aegon" id="113" weight="1" />
+      <edge source="Aegon" target="Maekar" id="114" weight="1" />
+      <edge source="Bowen Marsh" target="Maester Aemon" id="115" weight="1" />
+      <edge source="Bowen Marsh" target="Othell Yarwyck" id="116" weight="1" />
+      <edge source="Bowen Marsh" target="Ser Alliser" id="117" weight="1" />
+      <edge source="Bowen Marsh" target="Mormont" id="118" weight="1" />
+      <edge source="Bowen Marsh" target="Ser Jaremy Rykker" id="119" weight="1" />
+      <edge source="Bowen Marsh" target="Wall" id="120" weight="1" />
+      <edge source="Bowen Marsh" target="m’lord" id="121" weight="1" />
+      <edge source="Bowen Marsh" target="the Lord Steward" id="122" weight="1" />
+      <edge source="Maester Aemon" target="Chett" id="123" weight="3" />
+      <edge source="Maester Aemon" target="Clydas" id="124" weight="2" />
+      <edge source="Maester Aemon" target="Mormont" id="125" weight="2" />
+      <edge source="Maester Aemon" target="Robb" id="126" weight="1" />
+      <edge source="Maester Aemon" target="Samwell Tarly" id="127" weight="1" />
+      <edge source="Maester Aemon" target="Ser Alliser cold" id="128" weight="1" />
+      <edge source="Maester Aemon" target="Samwell" id="129" weight="1" />
+      <edge source="Maester Aemon" target="Ser Alliser Thorne" id="130" weight="1" />
+      <edge source="Othell Yarwyck" target="Ser Jaremy Rykker" id="131" weight="1" />
+      <edge source="Othell Yarwyck" target="the Lord Steward" id="132" weight="1" />
+      <edge source="Ser Alliser" target="Grenn" id="133" weight="1" />
+      <edge source="Ser Alliser" target="Joffrey" id="134" weight="1" />
+      <edge source="Ser Alliser" target="Mormont" id="135" weight="1" />
+      <edge source="Ser Alliser" target="Pyp" id="136" weight="1" />
+      <edge source="Ser Alliser" target="Sam" id="137" weight="3" />
+      <edge source="Ser Alliser" target="Toad" id="138" weight="1" />
+      <edge source="Ser Alliser" target="Wall" id="139" weight="1" />
+      <edge source="Grenn" target="Jeren" id="140" weight="1" />
+      <edge source="Grenn" target="Noye" id="141" weight="1" />
+      <edge source="Grenn" target="Pyp" id="142" weight="2" />
+      <edge source="Grenn" target="Sam" id="143" weight="2" />
+      <edge source="Grenn" target="Toad" id="144" weight="1" />
+      <edge source="Grenn" target="Winterfell" id="145" weight="1" />
+      <edge source="Pyp" target="Ho" id="146" weight="1" />
+      <edge source="Pyp" target="Jeren" id="147" weight="1" />
+      <edge source="Pyp" target="Samwell Tarly" id="148" weight="1" />
+      <edge source="Pyp" target="the Seven Kingdoms" id="149" weight="1" />
+      <edge source="Pyp" target="Robb" id="150" weight="1" />
+      <edge source="Pyp" target="Sam" id="151" weight="3" />
+      <edge source="Pyp" target="Snow" id="152" weight="1" />
+      <edge source="Pyp" target="Toad" id="153" weight="2" />
+      <edge source="Pyp" target="Winterfell" id="154" weight="1" />
+      <edge source="Pyp" target="gallop" id="155" weight="1" />
+      <edge source="Sam" target="Mole" id="156" weight="1" />
+      <edge source="Sam" target="Cuger" id="157" weight="1" />
+      <edge source="Sam" target="House" id="158" weight="1" />
+      <edge source="Sam" target="Mormont" id="159" weight="1" />
+      <edge source="Sam" target="Randyll" id="160" weight="1" />
+      <edge source="Sam" target="Rast" id="161" weight="1" />
+      <edge source="Sam" target="Snow" id="162" weight="1" />
+      <edge source="Sam" target="Toad" id="163" weight="2" />
+      <edge source="Sam" target="Winterfell" id="164" weight="1" />
+      <edge source="Cersei" target="Jaime" id="165" weight="1" />
+      <edge source="Cersei" target="Tyrion" id="166" weight="1" />
+      <edge source="Jaime" target="Tyrion" id="167" weight="1" />
+      <edge source="Chett" target="Clydas" id="168" weight="1" />
+      <edge source="Clydas" target="Mormont" id="169" weight="1" />
+      <edge source="Clydas" target="Ser Alliser cold" id="170" weight="1" />
+      <edge source="Mormont" target="Ser Alliser Thorne" id="171" weight="1" />
+      <edge source="Mormont" target="Ser Alliser cold" id="172" weight="1" />
+      <edge source="Mormont" target="Ser Barristan" id="173" weight="1" />
+      <edge source="Mormont" target="Steward" id="174" weight="1" />
+      <edge source="Mormont" target="Wall" id="175" weight="1" />
+      <edge source="Mormont" target="raven" id="176" weight="2" />
+      <edge source="Cotter Pyke" target="Jeren" id="177" weight="1" />
+      <edge source="Desmond" target="Fat Tom" id="178" weight="1" />
+      <edge source="Donal Noye" target="King Robert" id="179" weight="1" />
+      <edge source="Donal Noye" target="Rhaegar Targaryen" id="180" weight="1" />
+      <edge source="Donal Noye" target="Noye" id="181" weight="1" />
+      <edge source="King Robert" target="Rhaegar Targaryen" id="182" weight="1" />
+      <edge source="Dorne" target="Casterly Rock" id="183" weight="1" />
+      <edge source="Dorne" target="Daeren Targaryen" id="184" weight="1" />
+      <edge source="Dorne" target="Riverrun" id="185" weight="1" />
+      <edge source="Dorne" target="Winterfell" id="186" weight="1" />
+      <edge source="Dorne" target="the Isles of Faces" id="187" weight="1" />
+      <edge source="Casterly Rock" target="Riverrun" id="188" weight="1" />
+      <edge source="Casterly Rock" target="Winterfell" id="189" weight="1" />
+      <edge source="Casterly Rock" target="the Isles of Faces" id="190" weight="1" />
+      <edge source="Eastwatch" target="Ser Alliser Thorne" id="191" weight="1" />
+      <edge source="Ser Alliser Thorne" target="Valyrian" id="192" weight="1" />
+      <edge source="Ser Alliser Thorne" target="maester" id="193" weight="1" />
+      <edge source="Free Cities" target="Myr" id="194" weight="1" />
+      <edge source="Free Cities" target="Pentos" id="195" weight="1" />
+      <edge source="Myr" target="Pentos" id="196" weight="1" />
+      <edge source="Goldengrove" target="Rowan" id="197" weight="1" />
+      <edge source="Toad" target="Matt" id="198" weight="1" />
+      <edge source="Toad" target="Valyrian" id="199" weight="1" />
+      <edge source="Hake" target="Ketter" id="200" weight="1" />
+      <edge source="Rast" target="Lady Piggy" id="201" weight="1" />
+      <edge source="Rast" target="Cuger" id="202" weight="1" />
+      <edge source="Rast" target="Samwell Tarly" id="203" weight="1" />
+      <edge source="Hardin" target="Tower" id="204" weight="2" />
+      <edge source="Tower" target="Snow" id="205" weight="1" />
+      <edge source="Highgarden" target="Mace Tyrell" id="206" weight="1" />
+      <edge source="Highgarden" target="Southron" id="207" weight="1" />
+      <edge source="Highgarden" target="Tarlys" id="208" weight="1" />
+      <edge source="Highgarden" target="Warden" id="209" weight="1" />
+      <edge source="Highgarden" target="Tyrell" id="210" weight="1" />
+      <edge source="Mace Tyrell" target="Tarlys" id="211" weight="1" />
+      <edge source="Mace Tyrell" target="Warden" id="212" weight="1" />
+      <edge source="Tarlys" target="Warden" id="213" weight="1" />
+      <edge source="Hobb" target="Longclaw" id="214" weight="1" />
+      <edge source="House" target="Ser Jaremy Rykker" id="215" weight="1" />
+      <edge source="House" target="direwolf" id="216" weight="1" />
+      <edge source="Ser Jaremy Rykker" target="Jafer Flowers" id="217" weight="1" />
+      <edge source="Ser Jaremy Rykker" target="Quorin Halfhand" id="218" weight="1" />
+      <edge source="Ser Jaremy Rykker" target="the Lord Steward" id="219" weight="1" />
+      <edge source="Hullen" target="Robb" id="220" weight="1" />
+      <edge source="Robb" target="Jory" id="221" weight="1" />
+      <edge source="Robb" target="Rickon" id="222" weight="3" />
+      <edge source="Robb" target="Bran" id="223" weight="1" />
+      <edge source="Robb" target="Samwell Tarly" id="224" weight="1" />
+      <edge source="Robb" target="Ser Rodrik" id="225" weight="1" />
+      <edge source="Robb" target="Stark" id="226" weight="1" />
+      <edge source="Robb" target="Uncle Benjen" id="227" weight="1" />
+      <edge source="Robb" target="Winterfell" id="228" weight="4" />
+      <edge source="Imp" target="Lion" id="229" weight="1" />
+      <edge source="Imp" target="Tyrion Lannister" id="230" weight="1" />
+      <edge source="Tyrion Lannister" target="Samwell Tarly" id="231" weight="1" />
+      <edge source="Tyrion Lannister" target="Tywin" id="232" weight="1" />
+      <edge source="Joffrey" target="Sansa" id="233" weight="1" />
+      <edge source="Joffrey" target="the King’s Hand" id="234" weight="1" />
+      <edge source="Joffrey" target="Winterfell" id="235" weight="1" />
+      <edge source="Joffrey" target="Winterfell’s Great Hall" id="236" weight="1" />
+      <edge source="Sansa" target="Joffrey Baratheon" id="237" weight="1" />
+      <edge source="Sansa" target="Winterfell’s Great Hall" id="238" weight="1" />
+      <edge source="Ben" target="wolf" id="239" weight="1" />
+      <edge source="Bran" target="Rickon" id="240" weight="1" />
+      <edge source="Fingers" target="Yoren" id="241" weight="1" />
+      <edge source="Lady Stark" target="Septon Celladar" id="242" weight="1" />
+      <edge source="Lady Stark" target="come King Robert" id="243" weight="1" />
+      <edge source="Lady Stark" target="Winterfell" id="244" weight="1" />
+      <edge source="Samwell Tarly" target="Craven" id="245" weight="1" />
+      <edge source="Septon Celladar" target="Winterfell" id="246" weight="1" />
+      <edge source="Septon Celladar" target="evenfall" id="247" weight="1" />
+      <edge source="Ser Barristan" target="Stannis" id="248" weight="1" />
+      <edge source="Ser Rodrik" target="Winterfell" id="249" weight="1" />
+      <edge source="Stark" target="Snow" id="250" weight="1" />
+      <edge source="Lady" target="Nymeria" id="251" weight="1" />
+      <edge source="Gorge" target="Quorin Halfhand" id="252" weight="1" />
+      <edge source="Prince Joffrey" target="Robert" id="253" weight="1" />
+      <edge source="Randyll Tarly" target="Heartsbane" id="254" weight="1" />
+      <edge source="Randyll Tarly" target="Valyrian" id="255" weight="1" />
+      <edge source="Randyll Tarly" target="Samwell" id="256" weight="1" />
+      <edge source="Heartsbane" target="Samwell" id="257" weight="1" />
+      <edge source="Heartsbane" target="Valyrian" id="258" weight="1" />
+      <edge source="Valyrian" target="Samwell" id="259" weight="1" />
+      <edge source="Rangers" target="Ser Denys" id="260" weight="1" />
+      <edge source="Riverrun" target="the Isles of Faces" id="261" weight="1" />
+      <edge source="Riverrun" target="Winterfell" id="262" weight="1" />
+      <edge source="the Isles of Faces" target="Winterfell" id="263" weight="1" />
+      <edge source="Robert Baratheon" target="Winterfell" id="264" weight="1" />
+      <edge source="Winterfell" target="King’s Landing" id="265" weight="1" />
+      <edge source="Winterfell" target="Ned Stark" id="266" weight="1" />
+      <edge source="Winterfell" target="Old Nan" id="267" weight="1" />
+      <edge source="Sam knelt" target="Jon knelt" id="268" weight="1" />
+      <edge source="Selmy" target="Clegane" id="269" weight="1" />
+      <edge source="Ser Jaime Lannister" target="Queen Cersei" id="270" weight="1" />
+      <edge source="Ser Waymar Royce" target="bannerman" id="271" weight="1" />
+      <edge source="Theon Greyjoy" target="Theon" id="272" weight="1" />
+      <edge source="raven" target="Ben Jen" id="273" weight="1" />
+      <edge source="the Tyrells of Highgarden" target="Lord Randyll" id="274" weight="1" />
     </edges>
   </graph>
 </gexf>
