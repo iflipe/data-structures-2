@@ -41,7 +41,7 @@
       <node id="Casterly Rock" label="Casterly Rock" />
       <node id="Rock" label="Rock" />
       <node id="Desmond" label="Desmond" />
-      <node id="“Lord Eddard" label="“Lord Eddard" />
+      <node id="Lord Eddard" label="Lord Eddard" />
       <node id="Donnis" label="Donnis" />
       <node id="Lew" label="Lew" />
       <node id="Eddard" label="Eddard" />
@@ -60,7 +60,7 @@
       <node id="Tywin" label="Tywin" />
       <node id="Jeyne Poole" label="Jeyne Poole" />
       <node id="Beth Cassel" label="Beth Cassel" />
-      <node id="Ser Rodrik’s" label="Ser Rodrik’s" />
+      <node id="Ser Rodrik" label="Ser Rodrik" />
       <node id="Septon" label="Septon" />
       <node id="Jon" label="Jon" />
       <node id="Jory" label="Jory" />
@@ -83,7 +83,6 @@
       <node id="Theon" label="Theon" />
       <node id="Rodrik" label="Rodrik" />
       <node id="Septon Chayle" label="Septon Chayle" />
-      <node id="Ser Rodrik" label="Ser Rodrik" />
       <node id="Ser Meryn Trant" label="Ser Meryn Trant" />
       <node id="Stannis Baratheon" label="Stannis Baratheon" />
       <node id="Lysa Arryn" label="Lysa Arryn" />
@@ -201,7 +200,7 @@
       <edge source="Arya Horseface" target="Jeyne" id="86" weight="1" />
       <edge source="Brandon" target="Grandfather" id="87" weight="1" />
       <edge source="Casterly Rock" target="Rock" id="88" weight="1" />
-      <edge source="Desmond" target="“Lord Eddard" id="89" weight="1" />
+      <edge source="Desmond" target="Lord Eddard" id="89" weight="1" />
       <edge source="Desmond" target="Yoren" id="90" weight="1" />
       <edge source="Desmond" target="longsword" id="91" weight="1" />
       <edge source="Donnis" target="Lew" id="92" weight="1" />
@@ -216,19 +215,19 @@
       <edge source="Jaime" target="Imp" id="101" weight="1" />
       <edge source="Jaime" target="Tywin" id="102" weight="1" />
       <edge source="Jeyne Poole" target="Beth Cassel" id="103" weight="1" />
-      <edge source="Jeyne Poole" target="Ser Rodrik’s" id="104" weight="1" />
-      <edge source="Jon" target="Nymeria" id="105" weight="1" />
-      <edge source="Jon" target="Yoren" id="106" weight="1" />
-      <edge source="Jon" target="the Small Hall" id="107" weight="1" />
-      <edge source="Jory" target="Alyn" id="108" weight="1" />
-      <edge source="Jory" target="Septon Chayle" id="109" weight="1" />
-      <edge source="Jory" target="Wyl" id="110" weight="1" />
-      <edge source="King Robert" target="Stark" id="111" weight="1" />
-      <edge source="King Robert" target="Lord Renly" id="112" weight="1" />
-      <edge source="Lord Renly" target="Robert" id="113" weight="1" />
-      <edge source="Lord Renly" target="Ser Loras" id="114" weight="1" />
-      <edge source="Prince Joffrey" target="King Joffrey" id="115" weight="1" />
-      <edge source="Septon Chayle" target="Ser Rodrik" id="116" weight="1" />
+      <edge source="Jeyne Poole" target="Ser Rodrik" id="104" weight="1" />
+      <edge source="Ser Rodrik" target="Septon Chayle" id="105" weight="1" />
+      <edge source="Jon" target="Nymeria" id="106" weight="1" />
+      <edge source="Jon" target="Yoren" id="107" weight="1" />
+      <edge source="Jon" target="the Small Hall" id="108" weight="1" />
+      <edge source="Jory" target="Alyn" id="109" weight="1" />
+      <edge source="Jory" target="Septon Chayle" id="110" weight="1" />
+      <edge source="Jory" target="Wyl" id="111" weight="1" />
+      <edge source="King Robert" target="Stark" id="112" weight="1" />
+      <edge source="King Robert" target="Lord Renly" id="113" weight="1" />
+      <edge source="Lord Renly" target="Robert" id="114" weight="1" />
+      <edge source="Lord Renly" target="Ser Loras" id="115" weight="1" />
+      <edge source="Prince Joffrey" target="King Joffrey" id="116" weight="1" />
       <edge source="Stannis Baratheon" target="Lysa Arryn" id="117" weight="1" />
       <edge source="Syrio" target="Ser Meryn" id="118" weight="1" />
       <edge source="Syrio" target="pushcart" id="119" weight="1" />

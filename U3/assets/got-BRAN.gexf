@@ -79,6 +79,8 @@
       <node id="Jory" label="Jory" />
       <node id="Ser Rodrik" label="Ser Rodrik" />
       <node id="Vayon Poole" label="Vayon Poole" />
+      <node id="Joffrey" label="Joffrey" />
+      <node id="the Red Keep" label="the Red Keep" />
       <node id="Tyrion Lannister" label="Tyrion Lannister" />
       <node id="wolf" label="wolf" />
       <node id="Jory Cassel" label="Jory Cassel" />
@@ -162,9 +164,6 @@
       <node id="m’lord" label="m’lord" />
       <node id="the Seven Kingdoms" label="the Seven Kingdoms" />
       <node id="Pact" label="Pact" />
-      <node id="“King Robert" label="“King Robert" />
-      <node id="Joffrey" label="Joffrey" />
-      <node id="the Red Keep" label="the Red Keep" />
     </nodes>
     <edges>
       <edge source="Arya" target="Lady" id="0" weight="1" />
@@ -185,188 +184,188 @@
       <edge source="Sansa" target="Hullen" id="15" weight="1" />
       <edge source="Balon Greyjoy" target="King Robert" id="16" weight="1" />
       <edge source="Balon Greyjoy" target="Pyke" id="17" weight="1" />
-      <edge source="King Robert" target="Kingsguard" id="18" weight="1" />
-      <edge source="Barristan" target="Ser Barristan Selmy" id="19" weight="1" />
-      <edge source="Bear Island" target="Mormonts" id="20" weight="1" />
-      <edge source="Bear Island" target="Rodrik Stark" id="21" weight="1" />
-      <edge source="Benjen" target="Robb" id="22" weight="1" />
-      <edge source="Robb" target="Bessa" id="23" weight="1" />
-      <edge source="Robb" target="Greatjon" id="24" weight="3" />
-      <edge source="Robb" target="Grey Wind" id="25" weight="6" />
-      <edge source="Robb" target="Greyjoy" id="26" weight="1" />
-      <edge source="Robb" target="Hodor" id="27" weight="1" />
-      <edge source="Robb" target="Hullen" id="28" weight="1" />
-      <edge source="Robb" target="Jon" id="29" weight="8" />
-      <edge source="Robb" target="Lannister" id="30" weight="1" />
-      <edge source="Robb" target="Lord Stark" id="31" weight="1" />
-      <edge source="Robb" target="Maege Mormont" id="32" weight="1" />
-      <edge source="Robb" target="Maester Luwin" id="33" weight="3" />
-      <edge source="Robb" target="Mance Rayder" id="34" weight="1" />
-      <edge source="Robb" target="Osha" id="35" weight="1" />
-      <edge source="Robb" target="Prince Joffrey" id="36" weight="1" />
-      <edge source="Robb" target="Quent" id="37" weight="1" />
-      <edge source="Robb" target="Theon" id="38" weight="2" />
-      <edge source="Robb" target="Winterfell" id="39" weight="1" />
-      <edge source="Robb" target="Ser Jaime Lannister" id="40" weight="1" />
-      <edge source="Robb" target="Stiv" id="41" weight="2" />
-      <edge source="Robb" target="Tullys" id="42" weight="1" />
-      <edge source="Robb" target="Uncle Benjen" id="43" weight="2" />
-      <edge source="Robb" target="Yoren" id="44" weight="2" />
-      <edge source="Robb" target="bannerman" id="45" weight="1" />
-      <edge source="Robb" target="direwolf" id="46" weight="1" />
-      <edge source="Robb" target="ford" id="47" weight="1" />
-      <edge source="Benjen Stark" target="Mance" id="48" weight="1" />
-      <edge source="Bessa" target="Theon" id="49" weight="1" />
-      <edge source="Theon" target="Maester Luwin" id="50" weight="2" />
-      <edge source="Theon" target="Maester Pycelle" id="51" weight="1" />
-      <edge source="Theon" target="Winterfell" id="52" weight="1" />
-      <edge source="Brandon" target="Brandon the Shipwright" id="53" weight="1" />
-      <edge source="Brandon" target="Lyanna" id="54" weight="1" />
-      <edge source="Brandon" target="Rickard" id="55" weight="1" />
-      <edge source="Lyanna" target="Rhaegar" id="56" weight="1" />
-      <edge source="Brandon Stark" target="Winterfell" id="57" weight="1" />
-      <edge source="Winterfell" target="Brandon the Builder" id="58" weight="1" />
-      <edge source="Winterfell" target="Conqueror" id="59" weight="1" />
-      <edge source="Winterfell" target="House" id="60" weight="1" />
-      <edge source="Winterfell" target="Jon" id="61" weight="2" />
-      <edge source="Winterfell" target="Lannister" id="62" weight="1" />
-      <edge source="Winterfell" target="Lord Stark" id="63" weight="1" />
-      <edge source="Winterfell" target="Old Nan" id="64" weight="1" />
-      <edge source="Winterfell" target="Osha" id="65" weight="1" />
-      <edge source="Winterfell" target="Robb Stark" id="66" weight="1" />
-      <edge source="Winterfell" target="Hallis Mollen" id="67" weight="1" />
-      <edge source="Brandon the Builder" target="Old Nan" id="68" weight="1" />
-      <edge source="Old Nan" target="Hodor" id="69" weight="1" />
-      <edge source="Old Nan" target="Starks" id="70" weight="1" />
-      <edge source="Conqueror" target="Aegon" id="71" weight="1" />
-      <edge source="Dragonglass" target="Luwin" id="72" weight="1" />
-      <edge source="Dragonglass" target="Osha" id="73" weight="1" />
-      <edge source="Luwin" target="Bran" id="74" weight="1" />
-      <edge source="Luwin" target="Osha" id="75" weight="2" />
-      <edge source="Luwin" target="direwolf" id="76" weight="1" />
-      <edge source="Osha" target="Hodor" id="77" weight="1" />
-      <edge source="Osha" target="Maester Luwin" id="78" weight="1" />
-      <edge source="Osha" target="Quent" id="79" weight="1" />
-      <edge source="Osha" target="Ser Rodrik" id="80" weight="1" />
-      <edge source="Osha" target="Rickard" id="81" weight="1" />
-      <edge source="Dragonknight" target="Prince Aemon" id="82" weight="1" />
-      <edge source="Eddard" target="Harrion" id="83" weight="1" />
-      <edge source="Eddard" target="House" id="84" weight="1" />
-      <edge source="Eddard" target="Jon" id="85" weight="1" />
-      <edge source="Eddard" target="Maester Luwin" id="86" weight="1" />
-      <edge source="Eddard" target="Rickard" id="87" weight="1" />
-      <edge source="Eddard" target="Torrhen" id="88" weight="1" />
-      <edge source="Eddard" target="Renly" id="89" weight="1" />
-      <edge source="House" target="Andals" id="90" weight="1" />
-      <edge source="House" target="Cerwyns" id="91" weight="1" />
-      <edge source="House" target="Dreadfort" id="92" weight="1" />
-      <edge source="House" target="Lady Mormont" id="93" weight="1" />
-      <edge source="House" target="Rhoynar" id="94" weight="1" />
-      <edge source="House" target="Robert" id="95" weight="1" />
-      <edge source="House" target="Roose Bolton" id="96" weight="1" />
-      <edge source="House" target="Warden" id="97" weight="1" />
-      <edge source="House" target="the House Stark" id="98" weight="1" />
-      <edge source="House" target="direwolf" id="99" weight="1" />
-      <edge source="Jon" target="Greyjoy" id="100" weight="2" />
-      <edge source="Jon" target="Hodor" id="101" weight="1" />
-      <edge source="Jon" target="Theon Greyjoy" id="102" weight="1" />
-      <edge source="Jon" target="Tyrion Lannister" id="103" weight="1" />
-      <edge source="Jon" target="wolf" id="104" weight="1" />
-      <edge source="Jon" target="direwolf" id="105" weight="1" />
-      <edge source="Maester Luwin" target="Farlen" id="106" weight="1" />
-      <edge source="Maester Luwin" target="Hodor" id="107" weight="5" />
-      <edge source="Maester Luwin" target="Folly" id="108" weight="1" />
-      <edge source="Maester Luwin" target="Hal Mollen" id="109" weight="1" />
-      <edge source="Maester Luwin" target="Hallis Mollen" id="110" weight="1" />
-      <edge source="Maester Luwin" target="Joseth" id="111" weight="1" />
-      <edge source="Maester Luwin" target="Karstark" id="112" weight="1" />
-      <edge source="Maester Luwin" target="Kings" id="113" weight="1" />
-      <edge source="Maester Luwin" target="Osha and Bran" id="114" weight="1" />
-      <edge source="Maester Luwin" target="Shaggy" id="115" weight="1" />
-      <edge source="Maester Luwin" target="Theon Greyjoy" id="116" weight="2" />
-      <edge source="Maester Luwin" target="Yoren" id="117" weight="1" />
-      <edge source="Rickard" target="Harrion Karstark" id="118" weight="1" />
-      <edge source="Rickard" target="Mad King Aerys" id="119" weight="1" />
-      <edge source="Rickard" target="Greatjon" id="120" weight="1" />
-      <edge source="Rickard" target="Lord Rickard" id="121" weight="1" />
-      <edge source="Rickard" target="Rickard Stark" id="122" weight="1" />
-      <edge source="Eddard Stark" target="Theon Greyjoy" id="123" weight="1" />
-      <edge source="Eddard Stark" target="Renly" id="124" weight="1" />
-      <edge source="Theon Greyjoy" target="Greatjon" id="125" weight="1" />
-      <edge source="Theon Greyjoy" target="Hodor" id="126" weight="1" />
-      <edge source="Theon Greyjoy" target="Jory Cassel" id="127" weight="1" />
-      <edge source="Theon Greyjoy" target="Lannister" id="128" weight="1" />
-      <edge source="Theon Greyjoy" target="Hal Mollen" id="129" weight="1" />
-      <edge source="Theon Greyjoy" target="Hallis Mollen" id="130" weight="2" />
-      <edge source="Theon Greyjoy" target="Jory" id="131" weight="1" />
-      <edge source="Theon Greyjoy" target="Ser Rodrik" id="132" weight="1" />
-      <edge source="Theon Greyjoy" target="Uncle Benjen" id="133" weight="1" />
-      <edge source="Theon Greyjoy" target="Winterfell, Robb the Lord" id="134" weight="1" />
-      <edge source="Giants" target="Lordling" id="135" weight="1" />
-      <edge source="Greatjon" target="Hodor" id="136" weight="1" />
-      <edge source="Grey Wind" target="Lannisters" id="137" weight="1" />
-      <edge source="Grey Wind" target="gaunt" id="138" weight="1" />
-      <edge source="Grey Wind" target="Lord Stark" id="139" weight="1" />
-      <edge source="Lannisters" target="Tullys" id="140" weight="1" />
-      <edge source="Hodor" target="Cerwyns" id="141" weight="1" />
-      <edge source="Hodor" target="Joseth" id="142" weight="1" />
-      <edge source="Hodor" target="Lord Umber" id="143" weight="1" />
-      <edge source="Hodor" target="Mikken" id="144" weight="2" />
-      <edge source="Hodor" target="Walder" id="145" weight="1" />
-      <edge source="Hodor" target="ironwood" id="146" weight="1" />
-      <edge source="Hodor" target="stableboy" id="147" weight="1" />
-      <edge source="Hodor" target="Kings" id="148" weight="1" />
-      <edge source="Joseth" target="Hullen" id="149" weight="1" />
-      <edge source="Joseth" target="bush" id="150" weight="1" />
-      <edge source="Dreadfort" target="Roose" id="151" weight="1" />
-      <edge source="Lady Mormont" target="Quent" id="152" weight="1" />
-      <edge source="Robert" target="Joff" id="153" weight="1" />
-      <edge source="Robert" target="King’s Landing" id="154" weight="1" />
-      <edge source="Robert" target="Prince Rhaegar" id="155" weight="1" />
-      <edge source="Robert" target="Stark" id="156" weight="1" />
-      <edge source="Roose Bolton" target="Robett Glover" id="157" weight="1" />
-      <edge source="House Stark" target="Hallis Mollen" id="158" weight="1" />
-      <edge source="House Stark" target="direwolf" id="159" weight="1" />
-      <edge source="Hullen" target="Fat Tom" id="160" weight="2" />
-      <edge source="Hullen" target="Harwin" id="161" weight="2" />
-      <edge source="Hullen" target="Jory" id="162" weight="2" />
-      <edge source="Hullen" target="Ser Rodrik" id="163" weight="2" />
-      <edge source="Hullen" target="Vayon Poole" id="164" weight="1" />
-      <edge source="Kings" target="Starks" id="165" weight="1" />
-      <edge source="Kings" target="the Lords of Winterfell" id="166" weight="1" />
-      <edge source="Starks" target="Stark" id="167" weight="1" />
-      <edge source="King’s Landing" target="Dragonlords" id="168" weight="1" />
-      <edge source="King’s Landing" target="Ser Barristan" id="169" weight="1" />
-      <edge source="Lannister" target="direwolf" id="170" weight="1" />
-      <edge source="Lord Cerwyn" target="Bolton" id="171" weight="1" />
-      <edge source="Maester Pycelle" target="Alyn" id="172" weight="1" />
-      <edge source="Oldtown" target="Citadel" id="173" weight="1" />
-      <edge source="Quent" target="Hal" id="174" weight="1" />
-      <edge source="Quent" target="m’lord" id="175" weight="2" />
-      <edge source="Renly" target="Stannis" id="176" weight="1" />
-      <edge source="Rhaegar Targaryen" target="Dragonstone" id="177" weight="1" />
-      <edge source="Riverrun" target="Imp" id="178" weight="1" />
-      <edge source="Riverrun" target="Tyrion" id="179" weight="1" />
-      <edge source="Roose" target="Boltons" id="180" weight="1" />
-      <edge source="Ser Erryk" target="Dragons" id="181" weight="1" />
-      <edge source="Ser Erryk" target="Ser Arryk" id="182" weight="1" />
-      <edge source="Ser Meryn" target="Ser Boros" id="183" weight="1" />
-      <edge source="Shaggydog" target="maester" id="184" weight="1" />
-      <edge source="Stiv" target="Hali" id="185" weight="1" />
-      <edge source="Stiv" target="Wallen" id="186" weight="1" />
-      <edge source="Hali" target="bush" id="187" weight="1" />
-      <edge source="Torrhen Stark" target="the King Who Knelt" id="188" weight="1" />
-      <edge source="Tullys" target="Neck" id="189" weight="1" />
-      <edge source="Vaes Dothrak" target="Asshai" id="190" weight="1" />
-      <edge source="Vaes Dothrak" target="the Free Cities" id="191" weight="1" />
-      <edge source="Wyl" target="Heward" id="192" weight="1" />
-      <edge source="Yoren" target="Maester" id="193" weight="1" />
-      <edge source="barrow knights" target="Flint" id="194" weight="1" />
-      <edge source="barrow knights" target="the Lords Manderly" id="195" weight="1" />
-      <edge source="direwolf" target="Osha carried Bran" id="196" weight="1" />
-      <edge source="the Seven Kingdoms" target="Pact" id="197" weight="1" />
-      <edge source="“King Robert" target="Joffrey" id="198" weight="1" />
-      <edge source="“King Robert" target="the Red Keep" id="199" weight="1" />
+      <edge source="King Robert" target="Joffrey" id="18" weight="1" />
+      <edge source="King Robert" target="Kingsguard" id="19" weight="1" />
+      <edge source="Barristan" target="Ser Barristan Selmy" id="20" weight="1" />
+      <edge source="Bear Island" target="Mormonts" id="21" weight="1" />
+      <edge source="Bear Island" target="Rodrik Stark" id="22" weight="1" />
+      <edge source="Benjen" target="Robb" id="23" weight="1" />
+      <edge source="Robb" target="Bessa" id="24" weight="1" />
+      <edge source="Robb" target="Greatjon" id="25" weight="3" />
+      <edge source="Robb" target="Grey Wind" id="26" weight="6" />
+      <edge source="Robb" target="Greyjoy" id="27" weight="1" />
+      <edge source="Robb" target="Hodor" id="28" weight="1" />
+      <edge source="Robb" target="Hullen" id="29" weight="1" />
+      <edge source="Robb" target="Jon" id="30" weight="8" />
+      <edge source="Robb" target="Lannister" id="31" weight="1" />
+      <edge source="Robb" target="Lord Stark" id="32" weight="1" />
+      <edge source="Robb" target="Maege Mormont" id="33" weight="1" />
+      <edge source="Robb" target="Maester Luwin" id="34" weight="3" />
+      <edge source="Robb" target="Mance Rayder" id="35" weight="1" />
+      <edge source="Robb" target="Osha" id="36" weight="1" />
+      <edge source="Robb" target="Prince Joffrey" id="37" weight="1" />
+      <edge source="Robb" target="Quent" id="38" weight="1" />
+      <edge source="Robb" target="Theon" id="39" weight="2" />
+      <edge source="Robb" target="Winterfell" id="40" weight="1" />
+      <edge source="Robb" target="Ser Jaime Lannister" id="41" weight="1" />
+      <edge source="Robb" target="Stiv" id="42" weight="2" />
+      <edge source="Robb" target="Tullys" id="43" weight="1" />
+      <edge source="Robb" target="Uncle Benjen" id="44" weight="2" />
+      <edge source="Robb" target="Yoren" id="45" weight="2" />
+      <edge source="Robb" target="bannerman" id="46" weight="1" />
+      <edge source="Robb" target="direwolf" id="47" weight="1" />
+      <edge source="Robb" target="ford" id="48" weight="1" />
+      <edge source="Benjen Stark" target="Mance" id="49" weight="1" />
+      <edge source="Bessa" target="Theon" id="50" weight="1" />
+      <edge source="Theon" target="Maester Luwin" id="51" weight="2" />
+      <edge source="Theon" target="Maester Pycelle" id="52" weight="1" />
+      <edge source="Theon" target="Winterfell" id="53" weight="1" />
+      <edge source="Brandon" target="Brandon the Shipwright" id="54" weight="1" />
+      <edge source="Brandon" target="Lyanna" id="55" weight="1" />
+      <edge source="Brandon" target="Rickard" id="56" weight="1" />
+      <edge source="Lyanna" target="Rhaegar" id="57" weight="1" />
+      <edge source="Brandon Stark" target="Winterfell" id="58" weight="1" />
+      <edge source="Winterfell" target="Brandon the Builder" id="59" weight="1" />
+      <edge source="Winterfell" target="Conqueror" id="60" weight="1" />
+      <edge source="Winterfell" target="House" id="61" weight="1" />
+      <edge source="Winterfell" target="Jon" id="62" weight="2" />
+      <edge source="Winterfell" target="Lannister" id="63" weight="1" />
+      <edge source="Winterfell" target="Lord Stark" id="64" weight="1" />
+      <edge source="Winterfell" target="Old Nan" id="65" weight="1" />
+      <edge source="Winterfell" target="Osha" id="66" weight="1" />
+      <edge source="Winterfell" target="Robb Stark" id="67" weight="1" />
+      <edge source="Winterfell" target="Hallis Mollen" id="68" weight="1" />
+      <edge source="Brandon the Builder" target="Old Nan" id="69" weight="1" />
+      <edge source="Old Nan" target="Hodor" id="70" weight="1" />
+      <edge source="Old Nan" target="Starks" id="71" weight="1" />
+      <edge source="Conqueror" target="Aegon" id="72" weight="1" />
+      <edge source="Dragonglass" target="Luwin" id="73" weight="1" />
+      <edge source="Dragonglass" target="Osha" id="74" weight="1" />
+      <edge source="Luwin" target="Bran" id="75" weight="1" />
+      <edge source="Luwin" target="Osha" id="76" weight="2" />
+      <edge source="Luwin" target="direwolf" id="77" weight="1" />
+      <edge source="Osha" target="Hodor" id="78" weight="1" />
+      <edge source="Osha" target="Maester Luwin" id="79" weight="1" />
+      <edge source="Osha" target="Quent" id="80" weight="1" />
+      <edge source="Osha" target="Ser Rodrik" id="81" weight="1" />
+      <edge source="Osha" target="Rickard" id="82" weight="1" />
+      <edge source="Dragonknight" target="Prince Aemon" id="83" weight="1" />
+      <edge source="Eddard" target="Harrion" id="84" weight="1" />
+      <edge source="Eddard" target="House" id="85" weight="1" />
+      <edge source="Eddard" target="Jon" id="86" weight="1" />
+      <edge source="Eddard" target="Maester Luwin" id="87" weight="1" />
+      <edge source="Eddard" target="Rickard" id="88" weight="1" />
+      <edge source="Eddard" target="Torrhen" id="89" weight="1" />
+      <edge source="Eddard" target="Renly" id="90" weight="1" />
+      <edge source="House" target="Andals" id="91" weight="1" />
+      <edge source="House" target="Cerwyns" id="92" weight="1" />
+      <edge source="House" target="Dreadfort" id="93" weight="1" />
+      <edge source="House" target="Lady Mormont" id="94" weight="1" />
+      <edge source="House" target="Rhoynar" id="95" weight="1" />
+      <edge source="House" target="Robert" id="96" weight="1" />
+      <edge source="House" target="Roose Bolton" id="97" weight="1" />
+      <edge source="House" target="Warden" id="98" weight="1" />
+      <edge source="House" target="the House Stark" id="99" weight="1" />
+      <edge source="House" target="direwolf" id="100" weight="1" />
+      <edge source="Jon" target="Greyjoy" id="101" weight="2" />
+      <edge source="Jon" target="Hodor" id="102" weight="1" />
+      <edge source="Jon" target="Theon Greyjoy" id="103" weight="1" />
+      <edge source="Jon" target="Tyrion Lannister" id="104" weight="1" />
+      <edge source="Jon" target="wolf" id="105" weight="1" />
+      <edge source="Jon" target="direwolf" id="106" weight="1" />
+      <edge source="Maester Luwin" target="Farlen" id="107" weight="1" />
+      <edge source="Maester Luwin" target="Hodor" id="108" weight="5" />
+      <edge source="Maester Luwin" target="Folly" id="109" weight="1" />
+      <edge source="Maester Luwin" target="Hal Mollen" id="110" weight="1" />
+      <edge source="Maester Luwin" target="Hallis Mollen" id="111" weight="1" />
+      <edge source="Maester Luwin" target="Joseth" id="112" weight="1" />
+      <edge source="Maester Luwin" target="Karstark" id="113" weight="1" />
+      <edge source="Maester Luwin" target="Kings" id="114" weight="1" />
+      <edge source="Maester Luwin" target="Osha and Bran" id="115" weight="1" />
+      <edge source="Maester Luwin" target="Shaggy" id="116" weight="1" />
+      <edge source="Maester Luwin" target="Theon Greyjoy" id="117" weight="2" />
+      <edge source="Maester Luwin" target="Yoren" id="118" weight="1" />
+      <edge source="Rickard" target="Harrion Karstark" id="119" weight="1" />
+      <edge source="Rickard" target="Mad King Aerys" id="120" weight="1" />
+      <edge source="Rickard" target="Greatjon" id="121" weight="1" />
+      <edge source="Rickard" target="Lord Rickard" id="122" weight="1" />
+      <edge source="Rickard" target="Rickard Stark" id="123" weight="1" />
+      <edge source="Eddard Stark" target="Theon Greyjoy" id="124" weight="1" />
+      <edge source="Eddard Stark" target="Renly" id="125" weight="1" />
+      <edge source="Theon Greyjoy" target="Greatjon" id="126" weight="1" />
+      <edge source="Theon Greyjoy" target="Hodor" id="127" weight="1" />
+      <edge source="Theon Greyjoy" target="Jory Cassel" id="128" weight="1" />
+      <edge source="Theon Greyjoy" target="Lannister" id="129" weight="1" />
+      <edge source="Theon Greyjoy" target="Hal Mollen" id="130" weight="1" />
+      <edge source="Theon Greyjoy" target="Hallis Mollen" id="131" weight="2" />
+      <edge source="Theon Greyjoy" target="Jory" id="132" weight="1" />
+      <edge source="Theon Greyjoy" target="Ser Rodrik" id="133" weight="1" />
+      <edge source="Theon Greyjoy" target="Uncle Benjen" id="134" weight="1" />
+      <edge source="Theon Greyjoy" target="Winterfell, Robb the Lord" id="135" weight="1" />
+      <edge source="Giants" target="Lordling" id="136" weight="1" />
+      <edge source="Greatjon" target="Hodor" id="137" weight="1" />
+      <edge source="Grey Wind" target="Lannisters" id="138" weight="1" />
+      <edge source="Grey Wind" target="gaunt" id="139" weight="1" />
+      <edge source="Grey Wind" target="Lord Stark" id="140" weight="1" />
+      <edge source="Lannisters" target="Tullys" id="141" weight="1" />
+      <edge source="Hodor" target="Cerwyns" id="142" weight="1" />
+      <edge source="Hodor" target="Joseth" id="143" weight="1" />
+      <edge source="Hodor" target="Lord Umber" id="144" weight="1" />
+      <edge source="Hodor" target="Mikken" id="145" weight="2" />
+      <edge source="Hodor" target="Walder" id="146" weight="1" />
+      <edge source="Hodor" target="ironwood" id="147" weight="1" />
+      <edge source="Hodor" target="stableboy" id="148" weight="1" />
+      <edge source="Hodor" target="Kings" id="149" weight="1" />
+      <edge source="Joseth" target="Hullen" id="150" weight="1" />
+      <edge source="Joseth" target="bush" id="151" weight="1" />
+      <edge source="Dreadfort" target="Roose" id="152" weight="1" />
+      <edge source="Lady Mormont" target="Quent" id="153" weight="1" />
+      <edge source="Robert" target="Joff" id="154" weight="1" />
+      <edge source="Robert" target="King’s Landing" id="155" weight="1" />
+      <edge source="Robert" target="Prince Rhaegar" id="156" weight="1" />
+      <edge source="Robert" target="Stark" id="157" weight="1" />
+      <edge source="Roose Bolton" target="Robett Glover" id="158" weight="1" />
+      <edge source="House Stark" target="Hallis Mollen" id="159" weight="1" />
+      <edge source="House Stark" target="direwolf" id="160" weight="1" />
+      <edge source="Hullen" target="Fat Tom" id="161" weight="2" />
+      <edge source="Hullen" target="Harwin" id="162" weight="2" />
+      <edge source="Hullen" target="Jory" id="163" weight="2" />
+      <edge source="Hullen" target="Ser Rodrik" id="164" weight="2" />
+      <edge source="Hullen" target="Vayon Poole" id="165" weight="1" />
+      <edge source="Joffrey" target="the Red Keep" id="166" weight="1" />
+      <edge source="Kings" target="Starks" id="167" weight="1" />
+      <edge source="Kings" target="the Lords of Winterfell" id="168" weight="1" />
+      <edge source="Starks" target="Stark" id="169" weight="1" />
+      <edge source="King’s Landing" target="Dragonlords" id="170" weight="1" />
+      <edge source="King’s Landing" target="Ser Barristan" id="171" weight="1" />
+      <edge source="Lannister" target="direwolf" id="172" weight="1" />
+      <edge source="Lord Cerwyn" target="Bolton" id="173" weight="1" />
+      <edge source="Maester Pycelle" target="Alyn" id="174" weight="1" />
+      <edge source="Oldtown" target="Citadel" id="175" weight="1" />
+      <edge source="Quent" target="Hal" id="176" weight="1" />
+      <edge source="Quent" target="m’lord" id="177" weight="2" />
+      <edge source="Renly" target="Stannis" id="178" weight="1" />
+      <edge source="Rhaegar Targaryen" target="Dragonstone" id="179" weight="1" />
+      <edge source="Riverrun" target="Imp" id="180" weight="1" />
+      <edge source="Riverrun" target="Tyrion" id="181" weight="1" />
+      <edge source="Roose" target="Boltons" id="182" weight="1" />
+      <edge source="Ser Erryk" target="Dragons" id="183" weight="1" />
+      <edge source="Ser Erryk" target="Ser Arryk" id="184" weight="1" />
+      <edge source="Ser Meryn" target="Ser Boros" id="185" weight="1" />
+      <edge source="Shaggydog" target="maester" id="186" weight="1" />
+      <edge source="Stiv" target="Hali" id="187" weight="1" />
+      <edge source="Stiv" target="Wallen" id="188" weight="1" />
+      <edge source="Hali" target="bush" id="189" weight="1" />
+      <edge source="Torrhen Stark" target="the King Who Knelt" id="190" weight="1" />
+      <edge source="Tullys" target="Neck" id="191" weight="1" />
+      <edge source="Vaes Dothrak" target="Asshai" id="192" weight="1" />
+      <edge source="Vaes Dothrak" target="the Free Cities" id="193" weight="1" />
+      <edge source="Wyl" target="Heward" id="194" weight="1" />
+      <edge source="Yoren" target="Maester" id="195" weight="1" />
+      <edge source="barrow knights" target="Flint" id="196" weight="1" />
+      <edge source="barrow knights" target="the Lords Manderly" id="197" weight="1" />
+      <edge source="direwolf" target="Osha carried Bran" id="198" weight="1" />
+      <edge source="the Seven Kingdoms" target="Pact" id="199" weight="1" />
     </edges>
   </graph>
 </gexf>
